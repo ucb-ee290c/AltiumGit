@@ -1,6 +1,7 @@
 [submodule "hurricane-motherboard"]
 	path = hurricane-motherboard
 	url = git@bwrcrepo.eecs.berkeley.edu:pcb/hurricane-motherboard
+	branch = master
 [submodule "hurricane1-daughterboard"]
 	path = hurricane1-daughterboard
 	url = git@bwrcrepo.eecs.berkeley.edu:pcb/hurricane1-daughterboard
