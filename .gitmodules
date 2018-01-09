@@ -5,6 +5,8 @@
 [submodule "hurricane1-daughterboard"]
 	path = hurricane1-daughterboard
 	url = git@bwrcrepo.eecs.berkeley.edu:pcb/hurricane1-daughterboard
+	branch = master
 [submodule "hurricane2-daughterboard"]
 	path = hurricane2-daughterboard
 	url = git@bwrcrepo.eecs.berkeley.edu:pcb/hurricane2-daughterboard
+	branch = master
