@@ -168,6 +168,7 @@ R1%-0603		Res Chip 1% 0603
 R1%-0805		Res Chip 1% 0805
 R1%-1206		Res Chip 1% 1206
 R1%-1210		Res Chip 1% 1210
+R1%-1508		Res Chip 1% 1508
 R1%-2512		Res Chip 1% 2512
 R1%			Resistor 1% Misc	
 R5%-01005		Res Chip 5% 01005
