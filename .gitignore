@@ -3,3 +3,12 @@
 *__Previews/
 *.net
 *.ldb
+*.CMP
+*.REP
+*.CSV
+BWRC-Libs/NDC_DFM_Libraries.PcbLib
+BWRC-Libs/NDC_DFM_Libraries.SchLib
+PartSync_DB/Log_DupParts.txt
+PartSync_Decals/
+
+
