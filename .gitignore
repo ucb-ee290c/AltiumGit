@@ -8,7 +8,10 @@
 *.CSV
 BWRC-Libs/NDC_DFM_Libraries.PcbLib
 BWRC-Libs/NDC_DFM_Libraries.SchLib
+BWRC-Libs/BWRC.ERR
+BWRC-Libs/BWRC.doc
 PartSync_DB/Log_DupParts.txt
 PartSync_Decals/
+PartSyncBB_Jobs/hurric
 
 
