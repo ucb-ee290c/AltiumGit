@@ -1,0 +1,17 @@
+                         RefDes to CompID Reference List
+                          ASMPCB-HURRICANE-MOTHERBOARD_REVX2   2/4/2018
+
+RefDes   ID       RefDes   ID       RefDes   ID       RefDes   ID       RefDes   ID
+-----------------------------------------------------------------------------------
+C1     = A5       C4     = A4       C6     = B1       C44    = A7       C51    = B2
+C57    = B3       C58    = A6       C77    = A1       C86    = A8       C87    = A3
+C88    = A2       D1     = C8       J1     = C5       J10    = B6       J11    = B8
+J14    = C1       J17    = C3       J18    = C4       J20    = B5       J21    = C2
+J23    = B4       J37    = B7       L1     = E5       Q1     = E6       R1     = E8
+
+R2     = G1       R3     = E7       R5     = F1       R6     = F4       R39    = G2
+R49    = F8       R50    = F7       R51    = F5       R53    = F3       R54    = F2
+R64    = F6       U1     = D3       U2     = D7       U3     = D4       U4     = E1
+U5     = D2       U6     = D8       U8     = D1       U9     = D6       U10    = E3
+U11    = E2       U12    = E4       U14    = D5       X1     = C7       X2     = C6
+

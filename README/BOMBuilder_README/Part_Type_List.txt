@@ -1,0 +1,10 @@
+C=Cap
+D=Diode
+F=Ferrite Bead
+J=Jack
+L=Inductor
+Q=Transistor
+R=Res
+S=Switch
+U=IC
+X=Crystal/Oscillator

@@ -1,0 +1,58 @@
+    Build 5  C:\Users\aflynn\data\AltiumGit\PartSyncBB_Jobs\hurricane-motherboard_revX2\
+
+Need    Part Number  BuyAt   Cost            Description
+---------------------------------------------------------------------------
+330     BW-794-372  100    $2.48         Cap ceramic 0.1uF 10V 10% X5R 0402 Murata GRM155R61A104KA01D
+40      BW-489-672  10     $0.68         Cap ceramic 0.01uF 16V 10% X7R 0402 AVX 0402YC103KAT2A
+80      BW-840-130  100    $12.90        Cap ceramic 10uF 16V 20% X5R 1206 TDK C3216X5R1C106M160AA
+5       BW-012-654  1      $1.00         Cap ceramic 4.7uF 10V 10% X5R 0805 Taiyo Yuden LMK212BJ475KD-T
+10      BW-701-605  10     $5.46         Cap aluminum electrolytic 1000uF 16V 20% radial Panasonic EEU-FM1C102
+10      BW-700-435  10     $6.47         Cap tantalum electrolytic 3.3uF 35V 10% 2312 AVX TPSC335K035R0700
+5       BW-466-928  1      $1.80         Cap ceramic 1uF 10V 10% X5R 0805 AVX 0805ZD105KAT2A
+40      BW-301-231  10     $2.00         Cap ceramic 10pF 50V 1% COG NPO 0402 Murata GRM1555C1H100FA01D
+10      BW-496-598  10     $3.22         Cap ceramic 39nF 50V 5% COG NPO 1206 Murata GRM31M5C1H393JA01L
+10      BW-173-862  10     $0.83         Cap ceramic 2.7nF 50V 5% COG NPO 0603 Murata GRM1885C1H272JA01D
+10      BW-419-162  10     $2.85         Cap ceramic 1.2nF 50V 5% COG NPO 0402 Kemet C0402C122J5GACTU
+5       BW-364-542  1      $0.80         Diode 75V 150mA MELF Micro Commercial DL4148-TP
+70      BW-222-950  100    $712.25       Con SMA jack str 50 ohm PCB THT-SMT Amphenol RF 132134-15
+5       BW-008-317  1      $2.70         Con 3 pin 100 mil 1x3 keyed male Molex 22-11-2032
+5       BW-970-533  1      $10.30        Con 4 pin 100 mil 2x2 str male TE 87227-2
+5       BW-009-332  1      $17.40        Con 8 pin 100 mil 2x4 str male TE 87227-4
+5       BW-935-627  1      $143.55       Con 400 pin 1.27mm 10x40 FMC VITA 57 male plug Molex 0459704715
+5       BW-349-120  1      $143.55       Con 400 pin 1.27mm 10x40 FMC VITA 57 female recp Molex 0459714515
+25      BW-003-156  10     $17.55        Con 2 pin 100 mil 1x2 str male TE 5-146252-1
+5       BW-715-979  1      $4.05         Con 20 pin 100 mil 2x10 str male shrouded 3M 30320-6002HB
+55      BW-072-821  10     $10.02        Con 1 pin 100 mil 1x1 dtr male TE 4-103327-3
+55      BW-389-759  10     $25.02        Con 3 pin 100 mil 1x3 str male TE 5-146280-3
+45      BW-002-808  50     $12.10        Inductor 1uH  650mA 0603 Taiyo Yuden BRL1608T1R0M
+5       BW-691-371  1      $4.70         MOSFET N-CH 60V 4A SOT223 ON Semi NDT3055L
+40      BW-783-395  10     $1.12         Res 49.9 1% 1/16W 0402 Vishay CRCW040249R9FKEDC
+205     BW-740-618  10     $8.70         Res 3.9K 5% 1/10W 0402 Panasonic ERJ-2GEJ392X
+10      BW-800-965  10     $0.74         Res 40.2K 0.5% 1/16W 0402 Susumu RR0510P-4022-D
+5       BW-182-504  10     $0.43         Res 200 1% 1/10W 0402 Panasonic ERJ-2RKF2000X
+5       BW-117-435  10     $0.44         Res 1.24K 1% 1/16W 0402 Vishay CRCW04021K24FKED
+10      BW-258-029  10     $0.12         Res 200K 5% 1/16W 0402 Yageo RC0402JR-07200KL
+5       BW-656-709  1      $3.25         Res 0.05 1% 1W 2512 Susumu KRL3264-C-R050-F-T1
+5       BW-020-333  1      $3.05         Res 1 1% 1W 1508 Susumu RL3720WS-1R0-F
+10      BW-026-055  10     $0.44         Res 5.1K 1% 1/16W 0402 Vishay CRCW04025K10FKED
+10      BW-686-191  10     $0.44         Res 680 1% 1/16W 0402 Vishay CRCW0402680RFKED
+10      BW-038-026  10     $0.44         Res 360 1% 1/16W 0402 Vishay CRCW0402360RFKED
+20      BW-242-342  NONE   $0.00         Res 100K 1% 1/16W 0402 Yageo RC0402FR-07200KL
+10      BW-328-278  10     $144.16       IC ADF4351 wideband synthesizer w/integrated VCO LFCSP-32 Analog Devices ADF4351BCPZ
+10      BW-360-543  10     $30.40        IC LM8272 op-amp MSOP-8 TI LM8272MM
+5       BW-280-531  1      $6.05         IC DS4432 prog current source DAC I2C uSOP-8 Maxim DS4432U+
+5       BW-507-628  1      $10.60        IC MAX9611 op-amp uMAX-10 Maxim MAX9611AUB+
+5       BW-430-932  1      $31.25        IC LT3022 adj LDO regulator 1A MSOP-EP-16 Linear Tech LT3022EMSE#PBF
+10      BW-920-319  10     $6.46         IC PCA9306 level shifter I2C TSSOP-8 NXP PCA9306DP,118
+5       BW-493-051  1      $5.35         IC LM2776 voltage inverter SOT23-6 TI LM2776DBVR
+5       BW-832-719  1      $37.50        IC AD5263 digital pot 4-output TSSOP-24 ADI AD5263BRUZ200
+5       BW-595-034  1      $21.35        IC ISL43240 quad SPDT switch  SSOP-20 Intersil ISL43240IAZ
+5       BW-388-492  1      $9.60         IC ISL23315 digital pot 10K MSOP-10 Intersil ISL23315WFUZ
+5       BW-956-629  1      $9.85         IC TPS62361 buck switching reg pos adj BGA-16 TI TPS62361BYZHR
+15      BW-388-512  10     $20.66        IC NLSX5014 4-bit 100 Mb/s level translator TSSOP-14 ON Semi NLSX5014DTR2G
+5       BW-448-646  1      $10.50        Osc 125MHz Kyocera KC3225A125.000C30E00
+5       BW-082-896  1      $8.40         Osc 50MHz Epson SG210SED50.0000ML3
+
+---------------------------------------------------------------------------
+Total Cost: $1,514.98
+Unit  Cost: $303.00
