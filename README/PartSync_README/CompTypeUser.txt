@@ -64,14 +64,15 @@ CON-SPRING		Connector springy compression pogo
 CON-USB		Connector USB
 CON-SHUNT		Connector Shunt jumper
 CRY-OSC		Crystal Oscillator XTAL
-EM-BUZZ		Electromechanical Buzzer
-EM-SPKR		Electromechanical Speaker
-EM-MOT		Electromechanical Motor
 D-PIN			Diodes PIN
 D-PN			Diodes PN Junction
 D-PNUF		Diodes PN Fast & Ultra
 D-SHTKY		Diode Schottky
+D-TVS		Diode TVS ESD
 D-ZENER		Diode Zener
+EM-BUZZ		Electromechanical Buzzer
+EM-SPKR		Electromechanical Speaker
+EM-MOT		Electromechanical Motor
 FOOTPRINT   	Foot print footprint  
 FUSE			Fuses
 FUSE-PTC		Fuses PTC
