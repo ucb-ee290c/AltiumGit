@@ -1,5 +1,6 @@
 C=Cap
 D=Diode
+E=ESD TVS
 F=Ferrite Bead
 J=Jack
 L=Inductor
