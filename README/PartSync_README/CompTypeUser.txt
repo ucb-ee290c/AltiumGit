@@ -49,6 +49,7 @@ CON   		Connector Other
 CON-025		Connector .025sq
 CON-2MM		Connector 2mm
 CON-CIR		Connector Circular
+CON-CLIP		Connector Battery Clip
 CON-D			Connector D Series
 CON-FLEX		Connector Flex FFC
 CON-FMC		Connector FMC
@@ -64,11 +65,11 @@ CON-SPRING		Connector springy compression pogo
 CON-USB		Connector USB
 CON-SHUNT		Connector Shunt jumper
 CRY-OSC		Crystal Oscillator XTAL
+DIE-CUSTOM		Die Custom BWRC
 D-PIN			Diodes PIN
 D-PN			Diodes PN Junction
 D-PNUF		Diodes PN Fast & Ultra
 D-SHTKY		Diode Schottky
-D-TVS		Diode TVS ESD
 D-ZENER		Diode Zener
 EM-BUZZ		Electromechanical Buzzer
 EM-SPKR		Electromechanical Speaker
@@ -117,6 +118,7 @@ IND-0402		Inductors Chip 0402
 IND-0603		Inductors Chip 0603
 IND-0805		Inductors Chip 0805
 IND-1206		Inductors Chip 1206
+IND-1210		Inductors Chip 1210
 IND-DRUM		Inductors DRUM
 IND-NOMAG		Inductors non-magnetic air core
 IND-Chip		Inductors Chip Misc
