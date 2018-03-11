@@ -4,6 +4,7 @@ E=ESD TVS
 F=Ferrite Bead
 J=Jack
 L=Inductor
+M=MOSFET
 Q=Transistor
 R=Res
 S=Switch
