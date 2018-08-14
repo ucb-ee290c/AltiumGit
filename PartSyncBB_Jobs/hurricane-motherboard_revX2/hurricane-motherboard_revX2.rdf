@@ -1,10 +1,10 @@
 *RDFFILE*
 0.10
 "C:\Users\aflynn\data\AltiumGit\PartSyncBB_Jobs\hurricane-motherboard_revX2\hurricane-motherboard_revX2.bmb"
-43134.729469
+43226.615443
 ""
 "UnKnown"
-1
+0
 ""
 5
 2
@@ -27,862 +27,1294 @@ F
 F
 "Manf"
 "Description"
-9
+4
 0
 F
+"Desc"
+"DNI"
+77
+5
+-1
+-1
+5
+"Count"
+"Count"
+F
+""
+"RefDes"
+"RefDes"
+F
+""
+"Part Num"
+"Part Num"
+F
+""
+"Description"
+"Description"
+F
+""
 "DNI"
 "DNI"
+F
+""
+1
+0
+0
+5
+"2"
+"2"
+F
+""
+"C1 C5"
+"C1 C5"
+F
+""
+"BW-701-605"
+"BW-701-605"
+F
+""
+"Cap aluminum electrolytic 1000uF 16V 20% radial Panasonic EEU-FM1C102"
+"Cap aluminum electrolytic 1000uF 16V 20% radial Panasonic EEU-FM1C102"
+F
+""
+""
+""
+F
+""
+1
+1
+1
+5
+"157"
+"157"
+F
+""
+"C2 C4 C6 C8 C12 C14 C16 C17 C19 C21 C23 C25 C27 C29 C31 C33 C35 C37 C39 C41 C43 C45 C47 C49 C51 C53 C55 C57 C59 C61 C63 C65 C67 C69 C70 C73 C74 C77 C78 C79 C80 C83 C84 C87 C88 C89 C90 C93 C94 C97 C98 C99 C100 C103 C104 C107 C108 C109 C110 C113 C114 C117 C118 C119 C120 C123 C124 C127 C128 C129 C130 C133 C134 C137 C138 C139 C140 C141 C142 C143 C144 C145 C146 C147 C148 C149 C150 C151 C152 C153 C154 C155 C156 C157 C158 C159 C160 C161 C162 C163 C164 C165 C166 C167 C168 C169 C170 C171 C172 C173 C174 C175 C176 C177 C178 C179 C180 C181 C182 C184 C186 C187 C189 C191 C192 C194 C196 C197 C199 C201 C203 C205 C206 C207 C208 C213 C215 C216 C217 C218 C222 C223 C227 C228 C229 C231 C233 C235 C238 C242 C245 C247 C249 C251 C253 C256 C259"
+"C2 C4 C6 C8 C12 C14 C16 C17 C19 C21 C23 C25 C27 C29 C31 C33 C35 C37 C39 C41 C43 C45 C47 C49 C51 C53 C55 C57 C59 C61 C63 C65 C67 C69 C70 C73 C74 C77 C78 C79 C80 C83 C84 C87 C88 C89 C90 C93 C94 C97 C98 C99 C100 C103 C104 C107 C108 C109 C110 C113 C114 C117 C118 C119 C120 C123 C124 C127 C128 C129 C130 C133 C134 C137 C138 C139 C140 C141 C142 C143 C144 C145 C146 C147 C148 C149 C150 C151 C152 C153 C154 C155 C156 C157 C158 C159 C160 C161 C162 C163 C164 C165 C166 C167 C168 C169 C170 C171 C172 C173 C174 C175 C176 C177 C178 C179 C180 C181 C182 C184 C186 C187 C189 C191 C192 C194 C196 C197 C199 C201 C203 C205 C206 C207 C208 C213 C215 C216 C217 C218 C222 C223 C227 C228 C229 C231 C233 C235 C238 C242 C245 C247 C249 C251 C253 C256 C259"
+F
+""
+"BW-459-999"
+"BW-459-999"
+F
+""
+"Cap ceramic 0.1uF 10V 20% X5R 0402 Taiyo Yuden LMK105BJ104MV-F"
+"Cap ceramic 0.1uF 10V 20% X5R 0402 Taiyo Yuden LMK105BJ104MV-F"
+F
+""
+""
+""
+F
+""
+1
+2
+2
+5
+"51"
+"51"
+F
+""
+"C3 C7 C13 C15 C18 C20 C22 C24 C26 C28 C30 C32 C34 C36 C38 C40 C42 C44 C46 C48 C50 C52 C54 C56 C58 C60 C62 C64 C66 C68 C71 C75 C76 C81 C85 C86 C91 C95 C96 C101 C105 C106 C111 C115 C116 C121 C125 C126 C131 C135 C136"
+"C3 C7 C13 C15 C18 C20 C22 C24 C26 C28 C30 C32 C34 C36 C38 C40 C42 C44 C46 C48 C50 C52 C54 C56 C58 C60 C62 C64 C66 C68 C71 C75 C76 C81 C85 C86 C91 C95 C96 C101 C105 C106 C111 C115 C116 C121 C125 C126 C131 C135 C136"
+F
+""
+"BW-840-130"
+"BW-840-130"
+F
+""
+"Cap ceramic 10uF 16V 20% X5R 1206 TDK C3216X5R1C106M160AA"
+"Cap ceramic 10uF 16V 20% X5R 1206 TDK C3216X5R1C106M160AA"
+F
+""
+""
+""
+F
+""
+1
+3
+3
+5
+"2"
+"2"
+F
+""
+"C9 C11"
+"C9 C11"
+F
+""
+"BW-700-435"
+"BW-700-435"
+F
+""
+"Cap tantalum electrolytic 3.3uF 35V 10% 2312 AVX TPSC335K035R0700"
+"Cap tantalum electrolytic 3.3uF 35V 10% 2312 AVX TPSC335K035R0700"
+F
+""
+""
+""
+F
+""
+1
+4
+4
+5
+"1"
+"1"
+F
+""
+"C10"
+"C10"
+F
+""
+"BW-466-928"
+"BW-466-928"
+F
+""
+"Cap ceramic 1uF 10V 10% X5R 0805 AVX 0805ZD105KAT2A"
+"Cap ceramic 1uF 10V 10% X5R 0805 AVX 0805ZD105KAT2A"
+F
+""
+""
+""
+F
+""
+1
+5
+5
+5
+"11"
+"11"
+F
+""
+"C72 C82 C92 C102 C112 C122 C132 C202 C204 C212 C214"
+"C72 C82 C92 C102 C112 C122 C132 C202 C204 C212 C214"
+F
+""
+"BW-012-654"
+"BW-012-654"
+F
+""
+"Cap ceramic 4.7uF 10V 10% X5R 0805 Taiyo Yuden LMK212BJ475KD-T"
+"Cap ceramic 4.7uF 10V 10% X5R 0805 Taiyo Yuden LMK212BJ475KD-T"
+F
+""
+""
+""
+F
+""
+1
+6
+6
+5
+"8"
+"8"
+F
+""
+"C183 C185 C188 C190 C193 C195 C198 C200"
+"C183 C185 C188 C190 C193 C195 C198 C200"
+F
+""
+"BW-373-241"
+"BW-373-241"
+F
+""
+"Cap ceramic 10uF 6.3V 20% X5R 0603 Taiyo Yuden JMK107BJ106MA-T"
+"Cap ceramic 10uF 6.3V 20% X5R 0603 Taiyo Yuden JMK107BJ106MA-T"
+F
+""
+""
+""
+F
+""
+1
+7
+7
+5
+"12"
+"12"
+F
+""
+"C209 C210 C211 C219 C237 C239 C240 C254 C255 C257 C258 C260"
+"C209 C210 C211 C219 C237 C239 C240 C254 C255 C257 C258 C260"
+F
+""
+"BW-324-209"
+"BW-324-209"
+F
+""
+"Cap ceramic 0.01uF 6.3V 10% X7R 0402 Murata GRM155R70J103KA01D"
+"Cap ceramic 0.01uF 6.3V 10% X7R 0402 Murata GRM155R70J103KA01D"
+F
+""
+""
+""
+F
+""
+1
+8
+8
+5
+"2"
+"2"
+F
+""
+"C220 C221"
+"C220 C221"
+F
+""
+"BW-811-743"
+"BW-811-743"
+F
+""
+"Cap ceramic 27pF 50V 1% COG NPO 0402 Murata GRM1555C1H270FA01D"
+"Cap ceramic 27pF 50V 1% COG NPO 0402 Murata GRM1555C1H270FA01D"
+F
+""
+""
+""
+F
+""
+1
+9
+9
+5
+"2"
+"2"
+F
+""
+"C224 C241"
+"C224 C241"
+F
+""
+"BW-496-598"
+"BW-496-598"
+F
+""
+"Cap ceramic 39nF 50V 5% COG NPO 1206 Murata GRM31M5C1H393JA01L"
+"Cap ceramic 39nF 50V 5% COG NPO 1206 Murata GRM31M5C1H393JA01L"
+F
+""
+""
+""
+F
+""
+1
+10
+10
+5
+"2"
+"2"
+F
+""
+"C225 C243"
+"C225 C243"
+F
+""
+"BW-173-862"
+"BW-173-862"
+F
+""
+"Cap ceramic 2.7nF 50V 5% COG NPO 0603 Murata GRM1885C1H272JA01D"
+"Cap ceramic 2.7nF 50V 5% COG NPO 0603 Murata GRM1885C1H272JA01D"
+F
+""
+""
+""
+F
+""
+1
+11
+11
+5
+"2"
+"2"
+F
+""
+"C226 C244"
+"C226 C244"
+F
+""
+"BW-419-162"
+"BW-419-162"
+F
+""
+"Cap ceramic 1.2nF 50V 5% COG NPO 0402 Kemet C0402C122J5GACTU"
+"Cap ceramic 1.2nF 50V 5% COG NPO 0402 Kemet C0402C122J5GACTU"
+F
+""
+""
+""
+F
+""
+1
+12
+12
+5
+"8"
+"8"
+F
+""
+"C230 C232 C234 C236 C246 C248 C250 C252"
+"C230 C232 C234 C236 C246 C248 C250 C252"
+F
+""
+"BW-301-231"
+"BW-301-231"
+F
+""
+"Cap ceramic 10pF 50V 1% COG NPO 0402 Murata GRM1555C1H100FA01D"
+"Cap ceramic 10pF 50V 1% COG NPO 0402 Murata GRM1555C1H100FA01D"
+F
+""
+""
+""
+F
+""
+1
+13
+13
+5
+"4"
+"4"
+F
+""
+"D1 D2 D3 D4"
+"D1 D2 D3 D4"
+F
+""
+"BW-441-382"
+"BW-441-382"
+F
+""
+"LED 566nm green 2V 1206 Dialight 5988270107F"
+"LED 566nm green 2V 1206 Dialight 5988270107F"
+F
+""
+""
+""
+F
+""
+1
+14
+14
+5
+"1"
+"1"
+F
+""
+"D5"
+"D5"
+F
+""
+"BW-364-542"
+"BW-364-542"
+F
+""
+"Diode 75V 150mA MELF Micro Commercial DL4148-TP"
+"Diode 75V 150mA MELF Micro Commercial DL4148-TP"
+F
+""
+""
+""
+F
+""
+1
+15
+15
+5
+"2"
+"2"
+F
+""
+"E1 E2"
+"E1 E2"
+F
+""
+"BW-375-090"
+"BW-375-090"
+F
+""
+"Diode TVS 24VWM 150VC 0402 Littelfuse PGB1010402KR"
+"Diode TVS 24VWM 150VC 0402 Littelfuse PGB1010402KR"
+F
+""
+""
+""
+F
+""
+1
+16
+16
+5
+"3"
+"3"
+F
+""
+"F1 F2 F3"
+"F1 F2 F3"
+F
+""
+"BW-036-369"
+"BW-036-369"
+F
+""
+"Ferrite bead 600 Ohm 1A 0603 Wurth Electronics 742792651"
+"Ferrite bead 600 Ohm 1A 0603 Wurth Electronics 742792651"
+F
+""
+""
+""
+F
+""
+1
+17
+17
+5
+"11"
+"11"
+F
+""
+"J1 J2 J3 J4 J5 J6 J7 J8 J9 J10 J55"
+"J1 J2 J3 J4 J5 J6 J7 J8 J9 J10 J55"
+F
+""
+"BW-072-821"
+"BW-072-821"
+F
+""
+"Con 1 pin 100 mil 1x1 str male TE 4-103327-3"
+"Con 1 pin 100 mil 1x1 str male TE 4-103327-3"
+F
+""
+""
+""
+F
+""
+1
+18
+18
+5
+"5"
+"5"
+F
+""
+"J11 J13 J51 J52 J68"
+"J11 J13 J51 J52 J68"
+F
+""
+"BW-003-156"
+"BW-003-156"
+F
+""
+"Con 2 pin 100 mil 1x2 str male TE 5-146252-1"
+"Con 2 pin 100 mil 1x2 str male TE 5-146252-1"
+F
+""
+""
+""
+F
+""
+1
+19
+19
+5
+"1"
+"1"
+F
+""
+"J12"
+"J12"
+F
+""
+"BW-009-332"
+"BW-009-332"
+F
+""
+"Con 8 pin 100 mil 2x4 str male TE 87227-4"
+"Con 8 pin 100 mil 2x4 str male TE 87227-4"
+F
+""
+""
+""
+F
+""
+1
+20
+20
+5
+"1"
+"1"
+F
+""
+"J14"
+"J14"
+F
+""
+"BW-970-533"
+"BW-970-533"
+F
+""
+"Con 4 pin 100 mil 2x2 str male TE 87227-2"
+"Con 4 pin 100 mil 2x2 str male TE 87227-2"
+F
+""
+""
+""
+F
+""
+1
+21
+21
+5
+"30"
+"30"
+F
+""
+"J15 J16 J17 J18 J19 J20 J21 J22 J23 J24 J25 J26 J27 J28 J29 J30 J31 J32 J33 J34 J35 J36 J37 J38 J39 J40 J41 J47 J48 J53"
+"J15 J16 J17 J18 J19 J20 J21 J22 J23 J24 J25 J26 J27 J28 J29 J30 J31 J32 J33 J34 J35 J36 J37 J38 J39 J40 J41 J47 J48 J53"
+F
+""
+"BW-389-759"
+"BW-389-759"
+F
+""
+"Con 3 pin 100 mil 1x3 str male TE 5-146280-3"
+"Con 3 pin 100 mil 1x3 str male TE 5-146280-3"
+F
+""
+""
+""
+F
+""
+1
+22
+22
+5
+"14"
+"14"
+F
+""
+"J42 J43 J44 J45 J46 J69 J70 J71 J72 J73 J75 J76 J77 J78"
+"J42 J43 J44 J45 J46 J69 J70 J71 J72 J73 J75 J76 J77 J78"
+F
+""
+"BW-222-950"
+"BW-222-950"
+F
+""
+"Con SMA female jack str 50 ohm PCB THT-SMT Amphenol RF 132134-15"
+"Con SMA female jack str 50 ohm PCB THT-SMT Amphenol RF 132134-15"
+F
+""
+""
+""
+F
+""
+1
+23
+23
+5
+"1"
+"1"
+F
+""
+"J49"
+"J49"
+F
+""
+"BW-330-143"
+"BW-330-143"
+F
+""
+"Con 400 pin 1.27mm FMC VITA 57 male plug 10mm stkd ht Samtec ASP-134488-01"
+"Con 400 pin 1.27mm FMC VITA 57 male plug 10mm stkd ht Samtec ASP-134488-01"
+F
+""
+""
+""
+F
+""
+1
+24
+24
+5
+"1"
+"1"
+F
+""
+"J50"
+"J50"
+F
+""
+"BW-543-902"
+"BW-543-902"
+F
+""
+"Con 400 pin 1.27mm FMC VITA 57 female recp Samtec ASP-134486-01"
+"Con 400 pin 1.27mm FMC VITA 57 female recp Samtec ASP-134486-01"
+F
+""
+""
+""
+F
+""
+1
+25
+25
+5
+"5"
+"5"
+F
+""
+"J54 J58 J59 J60 J61"
+"J54 J58 J59 J60 J61"
+F
+""
+"BW-184-356"
+"BW-184-356"
+F
+""
+"Con 4 pin 100 mil 1x4 str male TE 5-146280-4"
+"Con 4 pin 100 mil 1x4 str male TE 5-146280-4"
+F
+""
+""
+""
+F
+""
+1
+26
+26
+5
+"1"
+"1"
+F
+""
+"J56"
+"J56"
+F
+""
+"BW-059-905"
+"BW-059-905"
+F
+""
+"Clip battery holder for 20mm coin cell CR2032 Linx BAT-HLD-001"
+"Clip battery holder for 20mm coin cell CR2032 Linx BAT-HLD-001"
+F
+""
+""
+""
+F
+""
+1
+27
+27
+5
+"1"
+"1"
+F
+""
+"J57"
+"J57"
+F
+""
+"BW-866-261"
+"BW-866-261"
+F
+""
+"Con SD card recp Amphenol FCI 10067847"
+"Con SD card recp Amphenol FCI 10067847"
+F
+""
+""
+""
+F
+""
+1
+28
+28
+5
+"1"
+"1"
+F
+""
+"J66"
+"J66"
+F
+""
+"BW-715-979"
+"BW-715-979"
+F
+""
+"Con 20 pin 100 mil 2x10 str male shrouded 3M 30320-6002HB"
+"Con 20 pin 100 mil 2x10 str male shrouded 3M 30320-6002HB"
+F
+""
+""
+""
+F
+""
+1
+29
+29
+5
+"1"
+"1"
+F
+""
+"J67"
+"J67"
+F
+""
+"BW-350-512"
+"BW-350-512"
+F
+""
+"Con USB micro AB recp thru right angle Amphenol MUSBK15230"
+"Con USB micro AB recp thru right angle Amphenol MUSBK15230"
+F
+""
+""
+""
+F
+""
+1
+30
+30
+5
+"1"
+"1"
+F
+""
+"J74"
+"J74"
+F
+""
+"BW-008-317"
+"BW-008-317"
+F
+""
+"Con 3 pin 100 mil 1x3 keyed male Molex 22-11-2032"
+"Con 3 pin 100 mil 1x3 keyed male Molex 22-11-2032"
+F
+""
+""
+""
+F
+""
+1
+31
+31
+5
+"4"
+"4"
+F
+""
+"L1 L2 L3 L4"
+"L1 L2 L3 L4"
+F
+""
+"BW-163-397"
+"BW-163-397"
+F
+""
+"Inductor 1uH 3.1A 1210 Murata Electronics 1277AS-H-1R0M=P2"
+"Inductor 1uH 3.1A 1210 Murata Electronics 1277AS-H-1R0M=P2"
+F
+""
+""
+""
+F
+""
+1
+32
+32
+5
+"8"
+"8"
+F
+""
+"L5 L6 L7 L8 L9 L10 L11 L12"
+"L5 L6 L7 L8 L9 L10 L11 L12"
+F
+""
+"BW-002-808"
+"BW-002-808"
+F
+""
+"Inductor 1uH 650mA 0603 Taiyo Yuden BRL1608T1R0M"
+"Inductor 1uH 650mA 0603 Taiyo Yuden BRL1608T1R0M"
+F
+""
+""
+""
+F
+""
+1
+33
+33
+5
+"4"
+"4"
+F
+""
+"M1 M2 M3 M4"
+"M1 M2 M3 M4"
+F
+""
+"BW-418-701"
+"BW-418-701"
+F
+""
+"MOSFET N-CH 20V 1.3A SOT-23 ON Semi NDS331N"
+"MOSFET N-CH 20V 1.3A SOT-23 ON Semi NDS331N"
+F
+""
+""
+""
+F
+""
+1
+34
+34
+5
+"1"
+"1"
+F
+""
+"M5"
+"M5"
+F
+""
+"BW-691-371"
+"BW-691-371"
+F
+""
+"MOSFET N-CH 60V 4A SOT223 ON Semi NDT3055L"
+"MOSFET N-CH 60V 4A SOT223 ON Semi NDT3055L"
+F
+""
+""
+""
+F
+""
+1
+35
+35
+5
+"51"
+"51"
+F
+""
+"R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R32 R34 R35 R36 R37 R38 R39 R41 R42 R69 R70 R71 R73 R75 R76 R77 R78 R80 R81 R121"
+"R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R32 R34 R35 R36 R37 R38 R39 R41 R42 R69 R70 R71 R73 R75 R76 R77 R78 R80 R81 R121"
+F
+""
+"BW-740-618"
+"BW-740-618"
+F
+""
+"Res 3.9K 5% 1/10W 0402 Panasonic ERJ-2GEJ392X"
+"Res 3.9K 5% 1/10W 0402 Panasonic ERJ-2GEJ392X"
+F
+""
+""
+""
+F
+""
+1
+36
+36
+5
+"2"
+"2"
+F
+""
+"R33 R40"
+"R33 R40"
+F
+""
+"BW-258-029"
+"BW-258-029"
+F
+""
+"Res 200K 5% 1/16W 0402 Yageo RC0402JR-07200KL"
+"Res 200K 5% 1/16W 0402 Yageo RC0402JR-07200KL"
+F
+""
+""
+""
+F
+""
+1
+37
+37
+5
+"4"
+"4"
+F
+""
+"R43 R44 R45 R46"
+"R43 R44 R45 R46"
+F
+""
+"BW-800-965"
+"BW-800-965"
+F
+""
+"Res 40.2K 0.5% 1/16W 0402 Susumu RR0510P-4022-D"
+"Res 40.2K 0.5% 1/16W 0402 Susumu RR0510P-4022-D"
+F
+""
+""
+""
+F
+""
+1
+38
+38
+5
+"7"
+"7"
+F
+""
+"R47 R50 R53 R56 R59 R62 R65"
+"R47 R50 R53 R56 R59 R62 R65"
+F
+""
+"BW-656-709"
+"BW-656-709"
+F
+""
+"Res 0.05 1% 1W 2512 Susumu KRL3264-C-R050-F-T1"
+"Res 0.05 1% 1W 2512 Susumu KRL3264-C-R050-F-T1"
+F
+""
+""
+""
+F
+""
+1
+39
+39
+5
+"7"
+"7"
+F
+""
+"R48 R51 R54 R57 R60 R63 R66"
+"R48 R51 R54 R57 R60 R63 R66"
+F
+""
+"BW-182-504"
+"BW-182-504"
+F
+""
+"Res 200 1% 1/10W 0402 Panasonic ERJ-2RKF2000X"
+"Res 200 1% 1/10W 0402 Panasonic ERJ-2RKF2000X"
+F
+""
+""
+""
+F
+""
+1
+40
+40
+5
+"7"
+"7"
+F
+""
+"R49 R52 R55 R58 R61 R64 R67"
+"R49 R52 R55 R58 R61 R64 R67"
+F
+""
+"BW-117-435"
+"BW-117-435"
+F
+""
+"Res 1.24K 1% 1/16W 0402 Vishay CRCW04021K24FKED"
+"Res 1.24K 1% 1/16W 0402 Vishay CRCW04021K24FKED"
+F
+""
+""
+""
+F
+""
+1
+41
+41
+5
+"1"
+"1"
+F
+""
+"R68"
+"R68"
+F
+""
+"BW-657-023"
+"BW-657-023"
+F
+""
+"Res 0 1/4W 1206 Vishay CRCW12060000Z0EAC"
+"Res 0 1/4W 1206 Vishay CRCW12060000Z0EAC"
+F
+""
+""
+""
+F
+""
+1
+42
+42
+5
+"4"
+"4"
+F
+""
+"R72 R74 R79 R82"
+"R72 R74 R79 R82"
+F
+""
+"BW-531-013"
+"BW-531-013"
+F
+""
+"Res 249 1% 1/10W 0402 Panasonic ERJ-2RKF2490X"
+"Res 249 1% 1/10W 0402 Panasonic ERJ-2RKF2490X"
+F
+""
+""
+""
+F
+""
+1
+43
+43
+5
+"7"
+"7"
+F
+""
+"R83 R84 R85 R86 R87 R88 R89"
+"R83 R84 R85 R86 R87 R88 R89"
+F
+""
+"BW-015-470"
+"BW-015-470"
+F
+""
+"Res 16K 1% 1/10W 0402 Panasonic ERJ-2RKF1602X"
+"Res 16K 1% 1/10W 0402 Panasonic ERJ-2RKF1602X"
+F
+""
+""
+""
+F
+""
+1
+44
+44
+5
+"4"
+"4"
+F
+""
+"R90 R91 R92 R93"
+"R90 R91 R92 R93"
+F
+""
+"BW-020-333"
+"BW-020-333"
+F
+""
+"Res 1 1% 1W 1508 Susumu RL3720WS-1R0-F"
+"Res 1 1% 1W 1508 Susumu RL3720WS-1R0-F"
+F
+""
+""
+""
+F
+""
+1
+45
+45
+5
+"5"
+"5"
+F
+""
+"R94 R95 R96 R97 R99"
+"R94 R95 R96 R97 R99"
+F
+""
+"BW-242-342"
+"BW-242-342"
+F
+""
+"Res 100K 1% 1/16W 0402 Yageo RC0402FR-07200KL"
+"Res 100K 1% 1/16W 0402 Yageo RC0402FR-07200KL"
+F
+""
+""
+""
+F
+""
+1
+46
+46
+5
+"6"
+"6"
+F
+""
+"R98 R100 R130 R131 R132 R133"
+"R98 R100 R130 R131 R132 R133"
+F
+""
+"BW-971-870"
+"BW-971-870"
+F
+""
+"Res 0 1/10W 0603 Panasonic ERJ-3GEY0R00V"
+"Res 0 1/10W 0603 Panasonic ERJ-3GEY0R00V"
+F
+""
+""
+""
+F
+""
+1
+47
+47
+5
+"4"
+"4"
+F
+""
+"R101 R103 R104 R105"
+"R101 R103 R104 R105"
+F
+""
+"BW-687-360"
+"BW-687-360"
+F
+""
+"Res 10K 1% 1/16W 0402 Yageo RC0402FR-0710KL"
+"Res 10K 1% 1/16W 0402 Yageo RC0402FR-0710KL"
+F
+""
+""
+""
+F
+""
+1
+48
+48
+5
+"1"
+"1"
+F
+""
+"R102"
+"R102"
+F
+""
+"BW-207-404"
+"BW-207-404"
+F
+""
+"Res 12K 1% 1/10W 0402 Panasonic ERJ-2RKF1202X"
+"Res 12K 1% 1/10W 0402 Panasonic ERJ-2RKF1202X"
+F
+""
+""
+""
+F
+""
+1
+49
+49
+5
+"1"
+"1"
+F
+""
+"R106"
+"R106"
+F
+""
+"BW-976-525"
+"BW-976-525"
+F
+""
+"Res 2.2K 1% 1/16W 0402 Yageo RC0402FR-072K2L"
+"Res 2.2K 1% 1/16W 0402 Yageo RC0402FR-072K2L"
+F
+""
+""
+""
+F
+""
+1
+50
+50
+5
+"8"
+"8"
+F
+""
+"R107 R110 R112 R113 R115 R118 R119 R120"
+"R107 R110 R112 R113 R115 R118 R119 R120"
+F
+""
+"BW-783-395"
+"BW-783-395"
+F
+""
+"Res 49.9 1% 1/16W 0402 Vishay CRCW040249R9FKEDC"
+"Res 49.9 1% 1/16W 0402 Vishay CRCW040249R9FKEDC"
+F
+""
+""
+""
+F
+""
+1
+51
+51
+5
+"2"
+"2"
+F
+""
+"R108 R116"
+"R108 R116"
+F
+""
+"BW-686-191"
+"BW-686-191"
+F
+""
+"Res 680 1% 1/16W 0402 Vishay CRCW0402680RFKED"
+"Res 680 1% 1/16W 0402 Vishay CRCW0402680RFKED"
+F
+""
+""
+""
+F
+""
+1
+52
 52
 5
--1
--1
-5
-"Count"
-"Count"
-F
-""
-"RefDes"
-"RefDes"
-F
-""
-"Part Num"
-"Part Num"
-F
-""
-"Description"
-"Description"
-F
-""
-"DNI"
-"DNI"
-F
-""
-1
-0
-0
-5
-"66"
-"66"
-F
-""
-"C1 C2 C3 C5 C7 C9 C10 C11 C12 C13 C14 C15 C16 C17 C18 C19 C20 C21 C22 C23 C24 C25 C26 C27 C28 C29 C30 C31 C32 C33 C34 C35 C36 C37 C38 C39 C40 C41 C43 C45 C47 C49 C50 C53 C56 C61 C63 C65 C67 C69 C71 C72 C74 C78 C80 C82 C84 C85 C95 C97 C99 C101 C103 C106 C109 C110"
-"C1 C2 C3 C5 C7 C9 C10 C11 C12 C13 C14 C15 C16 C17 C18 C19 C20 C21 C22 C23 C24 C25 C26 C27 C28 C29 C30 C31 C32 C33 C34 C35 C36 C37 C38 C39 C40 C41 C43 C45 C47 C49 C50 C53 C56 C61 C63 C65 C67 C69 C71 C72 C74 C78 C80 C82 C84 C85 C95 C97 C99 C101 C103 C106 C109 C110"
-F
-""
-"BW-794-372"
-"BW-794-372"
-F
-""
-"Cap ceramic 0.1uF 10V 10% X5R 0402 Murata GRM155R61A104KA01D"
-"Cap ceramic 0.1uF 10V 10% X5R 0402 Murata GRM155R61A104KA01D"
-F
-""
-""
-""
-F
-""
-1
-1
-1
-5
-"8"
-"8"
-F
-""
-"C4 C89 C90 C91 C104 C105 C107 C108"
-"C4 C89 C90 C91 C104 C105 C107 C108"
-F
-""
-"BW-489-672"
-"BW-489-672"
-F
-""
-"Cap ceramic 0.01uF 16V 10% X7R 0402 AVX 0402YC103KAT2A"
-"Cap ceramic 0.01uF 16V 10% X7R 0402 AVX 0402YC103KAT2A"
-F
-""
-""
-""
-F
-""
-1
-2
-2
-5
-"16"
-"16"
-F
-""
-"C6 C8 C42 C46 C48 C52 C55 C60 C62 C64 C66 C68 C70 C73 C75 C76"
-"C6 C8 C42 C46 C48 C52 C55 C60 C62 C64 C66 C68 C70 C73 C75 C76"
-F
-""
-"BW-840-130"
-"BW-840-130"
-F
-""
-"Cap ceramic 10uF 16V 20% X5R 1206 TDK C3216X5R1C106M160AA"
-"Cap ceramic 10uF 16V 20% X5R 1206 TDK C3216X5R1C106M160AA"
-F
-""
-""
-""
-F
-""
-1
-3
-3
-5
-"1"
-"1"
-F
-""
-"C44"
-"C44"
-F
-""
-"BW-012-654"
-"BW-012-654"
-F
-""
-"Cap ceramic 4.7uF 10V 10% X5R 0805 Taiyo Yuden LMK212BJ475KD-T"
-"Cap ceramic 4.7uF 10V 10% X5R 0805 Taiyo Yuden LMK212BJ475KD-T"
-F
-""
-""
-""
-F
-""
-1
-4
-4
-5
 "2"
 "2"
 F
 ""
-"C51 C54"
-"C51 C54"
-F
-""
-"BW-701-605"
-"BW-701-605"
-F
-""
-"Cap aluminum electrolytic 1000uF 16V 20% radial Panasonic EEU-FM1C102"
-"Cap aluminum electrolytic 1000uF 16V 20% radial Panasonic EEU-FM1C102"
-F
-""
-""
-""
-F
-""
-1
-5
-5
-5
-"2"
-"2"
-F
-""
-"C57 C59"
-"C57 C59"
-F
-""
-"BW-700-435"
-"BW-700-435"
-F
-""
-"Cap tantalum electrolytic 3.3uF 35V 10% 2312 AVX TPSC335K035R0700"
-"Cap tantalum electrolytic 3.3uF 35V 10% 2312 AVX TPSC335K035R0700"
-F
-""
-""
-""
-F
-""
-1
-6
-6
-5
-"1"
-"1"
-F
-""
-"C58"
-"C58"
-F
-""
-"BW-466-928"
-"BW-466-928"
-F
-""
-"Cap ceramic 1uF 10V 10% X5R 0805 AVX 0805ZD105KAT2A"
-"Cap ceramic 1uF 10V 10% X5R 0805 AVX 0805ZD105KAT2A"
-F
-""
-""
-""
-F
-""
-1
-7
-7
-5
-"8"
-"8"
-F
-""
-"C77 C79 C81 C83 C96 C98 C100 C102"
-"C77 C79 C81 C83 C96 C98 C100 C102"
-F
-""
-"BW-301-231"
-"BW-301-231"
-F
-""
-"Cap ceramic 10pF 50V 1% COG NPO 0402 Murata GRM1555C1H100FA01D"
-"Cap ceramic 10pF 50V 1% COG NPO 0402 Murata GRM1555C1H100FA01D"
-F
-""
-""
-""
-F
-""
-1
-8
-8
-5
-"2"
-"2"
-F
-""
-"C86 C92"
-"C86 C92"
-F
-""
-"BW-496-598"
-"BW-496-598"
-F
-""
-"Cap ceramic 39nF 50V 5% COG NPO 1206 Murata GRM31M5C1H393JA01L"
-"Cap ceramic 39nF 50V 5% COG NPO 1206 Murata GRM31M5C1H393JA01L"
-F
-""
-""
-""
-F
-""
-1
-9
-9
-5
-"2"
-"2"
-F
-""
-"C87 C93"
-"C87 C93"
-F
-""
-"BW-173-862"
-"BW-173-862"
-F
-""
-"Cap ceramic 2.7nF 50V 5% COG NPO 0603 Murata GRM1885C1H272JA01D"
-"Cap ceramic 2.7nF 50V 5% COG NPO 0603 Murata GRM1885C1H272JA01D"
-F
-""
-""
-""
-F
-""
-1
-10
-10
-5
-"2"
-"2"
-F
-""
-"C88 C94"
-"C88 C94"
-F
-""
-"BW-419-162"
-"BW-419-162"
-F
-""
-"Cap ceramic 1.2nF 50V 5% COG NPO 0402 Kemet C0402C122J5GACTU"
-"Cap ceramic 1.2nF 50V 5% COG NPO 0402 Kemet C0402C122J5GACTU"
-F
-""
-""
-""
-F
-""
-1
-11
-11
-5
-"1"
-"1"
-F
-""
-"D1"
-"D1"
-F
-""
-"BW-364-542"
-"BW-364-542"
-F
-""
-"Diode 75V 150mA MELF Micro Commercial DL4148-TP"
-"Diode 75V 150mA MELF Micro Commercial DL4148-TP"
-F
-""
-""
-""
-F
-""
-1
-12
-12
-5
-"14"
-"14"
-F
-""
-"J1 J2 J3 J4 J5 J6 J7 J8 J9 J12 J13 J15 J16 J19"
-"J1 J2 J3 J4 J5 J6 J7 J8 J9 J12 J13 J15 J16 J19"
-F
-""
-"BW-222-950"
-"BW-222-950"
-F
-""
-"Con SMA jack str 50 ohm PCB THT-SMT Amphenol RF 132134-15"
-"Con SMA jack str 50 ohm PCB THT-SMT Amphenol RF 132134-15"
-F
-""
-""
-""
-F
-""
-1
-13
-13
-5
-"1"
-"1"
-F
-""
-"J10"
-"J10"
-F
-""
-"BW-008-317"
-"BW-008-317"
-F
-""
-"Con 3 pin 100 mil 1x3 keyed male Molex 22-11-2032"
-"Con 3 pin 100 mil 1x3 keyed male Molex 22-11-2032"
-F
-""
-""
-""
-F
-""
-1
-14
-14
-5
-"1"
-"1"
-F
-""
-"J11"
-"J11"
-F
-""
-"BW-970-533"
-"BW-970-533"
-F
-""
-"Con 4 pin 100 mil 2x2 str male TE 87227-2"
-"Con 4 pin 100 mil 2x2 str male TE 87227-2"
-F
-""
-""
-""
-F
-""
-1
-15
-15
-5
-"1"
-"1"
-F
-""
-"J14"
-"J14"
-F
-""
-"BW-009-332"
-"BW-009-332"
-F
-""
-"Con 8 pin 100 mil 2x4 str male TE 87227-4"
-"Con 8 pin 100 mil 2x4 str male TE 87227-4"
-F
-""
-""
-""
-F
-""
-1
-16
-16
-5
-"1"
-"1"
-F
-""
-"J17"
-"J17"
-F
-""
-"BW-935-627"
-"BW-935-627"
-F
-""
-"Con 400 pin 1.27mm 10x40 FMC VITA 57 male plug Molex 0459704715"
-"Con 400 pin 1.27mm 10x40 FMC VITA 57 male plug Molex 0459704715"
-F
-""
-""
-""
-F
-""
-1
-17
-17
-5
-"1"
-"1"
-F
-""
-"J18"
-"J18"
-F
-""
-"BW-349-120"
-"BW-349-120"
-F
-""
-"Con 400 pin 1.27mm 10x40 FMC VITA 57 female recp Molex 0459714515"
-"Con 400 pin 1.27mm 10x40 FMC VITA 57 female recp Molex 0459714515"
-F
-""
-""
-""
-F
-""
-1
-18
-18
-5
-"5"
-"5"
-F
-""
-"J20 J22 J24 J25 J26"
-"J20 J22 J24 J25 J26"
-F
-""
-"BW-003-156"
-"BW-003-156"
-F
-""
-"Con 2 pin 100 mil 1x2 str male TE 5-146252-1"
-"Con 2 pin 100 mil 1x2 str male TE 5-146252-1"
-F
-""
-""
-""
-F
-""
-1
-19
-19
-5
-"1"
-"1"
-F
-""
-"J21"
-"J21"
-F
-""
-"BW-715-979"
-"BW-715-979"
-F
-""
-"Con 20 pin 100 mil 2x10 str male shrouded 3M 30320-6002HB"
-"Con 20 pin 100 mil 2x10 str male shrouded 3M 30320-6002HB"
-F
-""
-""
-""
-F
-""
-1
-20
-20
-5
-"11"
-"11"
-F
-""
-"J23 J27 J28 J29 J30 J31 J32 J33 J34 J35 J36"
-"J23 J27 J28 J29 J30 J31 J32 J33 J34 J35 J36"
-F
-""
-"BW-072-821"
-"BW-072-821"
-F
-""
-"Con 1 pin 100 mil 1x1 dtr male TE 4-103327-3"
-"Con 1 pin 100 mil 1x1 dtr male TE 4-103327-3"
-F
-""
-""
-""
-F
-""
-1
-21
-21
-5
-"11"
-"11"
-F
-""
-"J37 J38 J39 J40 J41 J42 J43 J44 J45 J46 J47"
-"J37 J38 J39 J40 J41 J42 J43 J44 J45 J46 J47"
-F
-""
-"BW-389-759"
-"BW-389-759"
-F
-""
-"Con 3 pin 100 mil 1x3 str male TE 5-146280-3"
-"Con 3 pin 100 mil 1x3 str male TE 5-146280-3"
-F
-""
-""
-""
-F
-""
-1
-22
-22
-5
-"9"
-"9"
-F
-""
-"L1 L2 L3 L4 L5 L6 L7 L8 L9"
-"L1 L2 L3 L4 L5 L6 L7 L8 L9"
-F
-""
-"BW-002-808"
-"BW-002-808"
-F
-""
-"Inductor 1uH 650mA 0603 Taiyo Yuden BRL1608T1R0M"
-"Inductor 1uH 650mA 0603 Taiyo Yuden BRL1608T1R0M"
-F
-""
-""
-""
-F
-""
-1
-23
-23
-5
-"1"
-"1"
-F
-""
-"Q1"
-"Q1"
-F
-""
-"BW-691-371"
-"BW-691-371"
-F
-""
-"MOSFET N-CH 60V 4A SOT223 ON Semi NDT3055L"
-"MOSFET N-CH 60V 4A SOT223 ON Semi NDT3055L"
-F
-""
-""
-""
-F
-""
-1
-24
-24
-5
-"8"
-"8"
-F
-""
-"R1 R52 R55 R56 R60 R61 R62 R63"
-"R1 R52 R55 R56 R60 R61 R62 R63"
-F
-""
-"BW-783-395"
-"BW-783-395"
-F
-""
-"Res 49.9 1% 1/16W 0402 Vishay CRCW040249R9FKEDC"
-"Res 49.9 1% 1/16W 0402 Vishay CRCW040249R9FKEDC"
-F
-""
-""
-""
-F
-""
-1
-25
-25
-5
-"41"
-"41"
-F
-""
-"R2 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R32 R33 R34 R35 R36 R37 R38 R40 R41 R42 R43 R44 R45 R47 R48"
-"R2 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R32 R33 R34 R35 R36 R37 R38 R40 R41 R42 R43 R44 R45 R47 R48"
-F
-""
-"BW-740-618"
-"BW-740-618"
-F
-""
-"Res 3.9K 5% 1/10W 0402 Panasonic ERJ-2GEJ392X"
-"Res 3.9K 5% 1/10W 0402 Panasonic ERJ-2GEJ392X"
-F
-""
-""
-""
-F
-""
-1
-26
-26
-5
-"2"
-"2"
-F
-""
-"R3 R4"
-"R3 R4"
-F
-""
-"BW-800-965"
-"BW-800-965"
-F
-""
-"Res 40.2K 0.5% 1/16W 0402 Susumu RR0510P-4022-D"
-"Res 40.2K 0.5% 1/16W 0402 Susumu RR0510P-4022-D"
-F
-""
-""
-""
-F
-""
-1
-27
-27
-5
-"1"
-"1"
-F
-""
-"R5"
-"R5"
-F
-""
-"BW-182-504"
-"BW-182-504"
-F
-""
-"Res 200 1% 1/10W 0402 Panasonic ERJ-2RKF2000X"
-"Res 200 1% 1/10W 0402 Panasonic ERJ-2RKF2000X"
-F
-""
-""
-""
-F
-""
-1
-28
-28
-5
-"1"
-"1"
-F
-""
-"R6"
-"R6"
-F
-""
-"BW-117-435"
-"BW-117-435"
-F
-""
-"Res 1.24K 1% 1/16W 0402 Vishay CRCW04021K24FKED"
-"Res 1.24K 1% 1/16W 0402 Vishay CRCW04021K24FKED"
-F
-""
-""
-""
-F
-""
-1
-29
-29
-5
-"2"
-"2"
-F
-""
-"R39 R46"
-"R39 R46"
-F
-""
-"BW-258-029"
-"BW-258-029"
-F
-""
-"Res 200K 5% 1/16W 0402 Yageo RC0402JR-07200KL"
-"Res 200K 5% 1/16W 0402 Yageo RC0402JR-07200KL"
-F
-""
-""
-""
-F
-""
-1
-30
-30
-5
-"1"
-"1"
-F
-""
-"R49"
-"R49"
-F
-""
-"BW-656-709"
-"BW-656-709"
-F
-""
-"Res 0.05 1% 1W 2512 Susumu KRL3264-C-R050-F-T1"
-"Res 0.05 1% 1W 2512 Susumu KRL3264-C-R050-F-T1"
-F
-""
-""
-""
-F
-""
-1
-31
-31
-5
-"1"
-"1"
-F
-""
-"R50"
-"R50"
-F
-""
-"BW-020-333"
-"BW-020-333"
-F
-""
-"Res 1 1% 1W 1508 Susumu RL3720WS-1R0-F"
-"Res 1 1% 1W 1508 Susumu RL3720WS-1R0-F"
-F
-""
-""
-""
-F
-""
-1
-32
-32
-5
-"2"
-"2"
-F
-""
-"R51 R59"
-"R51 R59"
-F
-""
-"BW-026-055"
-"BW-026-055"
-F
-""
-"Res 5.1K 1% 1/16W 0402 Vishay CRCW04025K10FKED"
-"Res 5.1K 1% 1/16W 0402 Vishay CRCW04025K10FKED"
-F
-""
-""
-""
-F
-""
-1
-33
-33
-5
-"2"
-"2"
-F
-""
-"R53 R57"
-"R53 R57"
-F
-""
-"BW-686-191"
-"BW-686-191"
-F
-""
-"Res 680 1% 1/16W 0402 Vishay CRCW0402680RFKED"
-"Res 680 1% 1/16W 0402 Vishay CRCW0402680RFKED"
-F
-""
-""
-""
-F
-""
-1
-34
-34
-5
-"2"
-"2"
-F
-""
-"R54 R58"
-"R54 R58"
+"R109 R117"
+"R109 R117"
 F
 ""
 "BW-038-026"
@@ -898,23 +1330,23 @@ F
 F
 ""
 1
-35
-35
+53
+53
 5
-"4"
-"4"
+"2"
+"2"
 F
 ""
-"R64 R65 R66 R67"
-"R64 R65 R66 R67"
+"R111 R114"
+"R111 R114"
 F
 ""
-"BW-242-342"
-"BW-242-342"
+"BW-026-055"
+"BW-026-055"
 F
 ""
-"Res 100K 1% 1/16W 0402 Yageo RC0402FR-07200KL"
-"Res 100K 1% 1/16W 0402 Yageo RC0402FR-07200KL"
+"Res 5.1K 1% 1/16W 0402 Vishay CRCW04025K10FKED"
+"Res 5.1K 1% 1/16W 0402 Vishay CRCW04025K10FKED"
 F
 ""
 ""
@@ -922,135 +1354,15 @@ F
 F
 ""
 1
-36
-36
+54
+54
 5
 "2"
 "2"
 F
 ""
-"U1 U15"
-"U1 U15"
-F
-""
-"BW-328-278"
-"BW-328-278"
-F
-""
-"IC ADF4351 wideband synthesizer w/integrated VCO LFCSP-32 Analog Devices ADF4351"
-"IC ADF4351 wideband synthesizer w/integrated VCO LFCSP-32 Analog Devices ADF4351"
-F
-""
-""
-""
-F
-""
-1
-37
-37
-5
-"2"
-"2"
-F
-""
-"U2 U13"
-"U2 U13"
-F
-""
-"BW-360-543"
-"BW-360-543"
-F
-""
-"IC LM8272 op-amp MSOP-8 TI LM8272MM"
-"IC LM8272 op-amp MSOP-8 TI LM8272MM"
-F
-""
-""
-""
-F
-""
-1
-38
-38
-5
-"1"
-"1"
-F
-""
-"U3"
-"U3"
-F
-""
-"BW-280-531"
-"BW-280-531"
-F
-""
-"IC DS4432 prog current source DAC I2C uSOP-8 Maxim DS4432U"
-"IC DS4432 prog current source DAC I2C uSOP-8 Maxim DS4432U"
-F
-""
-""
-""
-F
-""
-1
-39
-39
-5
-"1"
-"1"
-F
-""
-"U4"
-"U4"
-F
-""
-"BW-507-628"
-"BW-507-628"
-F
-""
-"IC MAX9611 op-amp uMAX-10 Maxim MAX9611AUB"
-"IC MAX9611 op-amp uMAX-10 Maxim MAX9611AUB"
-F
-""
-""
-""
-F
-""
-1
-40
-40
-5
-"1"
-"1"
-F
-""
-"U5"
-"U5"
-F
-""
-"BW-430-932"
-"BW-430-932"
-F
-""
-"IC LT3022 adj LDO regulator 1A MSOP-EP-16 Linear Tech LT3022EMSE#PBF"
-"IC LT3022 adj LDO regulator 1A MSOP-EP-16 Linear Tech LT3022EMSE#PBF"
-F
-""
-""
-""
-F
-""
-1
-41
-41
-5
-"2"
-"2"
-F
-""
-"U6 U7"
-"U6 U7"
+"U1 U2"
+"U1 U2"
 F
 ""
 "BW-920-319"
@@ -1066,15 +1378,15 @@ F
 F
 ""
 1
-42
-42
+55
+55
 5
 "1"
 "1"
 F
 ""
-"U8"
-"U8"
+"U3"
+"U3"
 F
 ""
 "BW-493-051"
@@ -1090,15 +1402,39 @@ F
 F
 ""
 1
-43
-43
+56
+56
 5
-"1"
-"1"
+"2"
+"2"
 F
 ""
-"U9"
-"U9"
+"U4 U5"
+"U4 U5"
+F
+""
+"BW-280-531"
+"BW-280-531"
+F
+""
+"IC DS4432 prog current source DAC I2C uSOP-8 Maxim DS4432U"
+"IC DS4432 prog current source DAC I2C uSOP-8 Maxim DS4432U"
+F
+""
+""
+""
+F
+""
+1
+57
+57
+5
+"2"
+"2"
+F
+""
+"U6 U10"
+"U6 U10"
 F
 ""
 "BW-832-719"
@@ -1114,15 +1450,39 @@ F
 F
 ""
 1
-44
-44
+58
+58
 5
-"1"
-"1"
+"4"
+"4"
 F
 ""
-"U10"
-"U10"
+"U7 U9 U11 U13"
+"U7 U9 U11 U13"
+F
+""
+"BW-360-543"
+"BW-360-543"
+F
+""
+"IC LM8272 op-amp MSOP-8 TI LM8272MM"
+"IC LM8272 op-amp MSOP-8 TI LM8272MM"
+F
+""
+""
+""
+F
+""
+1
+59
+59
+5
+"2"
+"2"
+F
+""
+"U8 U12"
+"U8 U12"
 F
 ""
 "BW-595-034"
@@ -1138,15 +1498,63 @@ F
 F
 ""
 1
-45
-45
+60
+60
 5
-"1"
-"1"
+"7"
+"7"
 F
 ""
-"U11"
-"U11"
+"U14 U17 U20 U23 U26 U29 U32"
+"U14 U17 U20 U23 U26 U29 U32"
+F
+""
+"BW-507-628"
+"BW-507-628"
+F
+""
+"IC MAX9611 op-amp uMAX-10 Maxim MAX9611AUB"
+"IC MAX9611 op-amp uMAX-10 Maxim MAX9611AUB"
+F
+""
+""
+""
+F
+""
+1
+61
+61
+5
+"7"
+"7"
+F
+""
+"U15 U18 U21 U24 U27 U30 U33"
+"U15 U18 U21 U24 U27 U30 U33"
+F
+""
+"BW-430-932"
+"BW-430-932"
+F
+""
+"IC LT3022 adj LDO regulator 1A MSOP-EP-16 Linear Tech LT3022EMSE#PBF"
+"IC LT3022 adj LDO regulator 1A MSOP-EP-16 Linear Tech LT3022EMSE#PBF"
+F
+""
+""
+""
+F
+""
+1
+62
+62
+5
+"7"
+"7"
+F
+""
+"U16 U19 U22 U25 U28 U31 U34"
+"U16 U19 U22 U25 U28 U31 U34"
 F
 ""
 "BW-388-492"
@@ -1162,23 +1570,23 @@ F
 F
 ""
 1
-46
-46
+63
+63
 5
 "1"
 "1"
 F
 ""
-"U12"
-"U12"
+"U35"
+"U35"
 F
 ""
-"BW-956-629"
-"BW-956-629"
+"BW-822-598"
+"BW-822-598"
 F
 ""
-"IC TPS62361 buck switching reg pos adj BGA-16 TI TPS62361BYZHR"
-"IC TPS62361 buck switching reg pos adj BGA-16 TI TPS62361BYZHR"
+"IC PCA9846 bus switch 4-channel TSSOP-16 NXP PCA9846PWJ"
+"IC PCA9846 bus switch 4-channel TSSOP-16 NXP PCA9846PWJ"
 F
 ""
 ""
@@ -1186,23 +1594,23 @@ F
 F
 ""
 1
-47
-47
+64
+64
 5
-"3"
-"3"
+"1"
+"1"
 F
 ""
-"U14 U16 U17"
-"U14 U16 U17"
+"U36"
+"U36"
 F
 ""
-"BW-388-512"
-"BW-388-512"
+"BW-468-510"
+"BW-468-510"
 F
 ""
-"IC NLSX5014 4-bit 100 Mb/s level translator TSSOP-14 ON Semi NLSX5014DTR2G"
-"IC NLSX5014 4-bit 100 Mb/s level translator TSSOP-14 ON Semi NLSX5014DTR2G"
+"IC M24128 128Kb 16K x 8 I2C 1MHz EEPROM TSSOP-8 ST M24128-BRDW6TP"
+"IC M24128 128Kb 16K x 8 I2C 1MHz EEPROM TSSOP-8 ST M24128-BRDW6TP"
 F
 ""
 ""
@@ -1210,23 +1618,23 @@ F
 F
 ""
 1
-48
-48
+65
+65
 5
 "1"
 "1"
 F
 ""
-"X1"
-"X1"
+"U37"
+"U37"
 F
 ""
-"BW-448-646"
-"BW-448-646"
+"BW-669-396"
+"BW-669-396"
 F
 ""
-"Osc 125MHz Kyocera KC3225A125.000C30E00"
-"Osc 125MHz Kyocera KC3225A125.000C30E00"
+"IC PCF85263A real-time clock w/alarm, battery switch-over I2C SOIC-8 NXP PCF8526"
+"IC PCF85263A real-time clock w/alarm, battery switch-over I2C SOIC-8 NXP PCF8526"
 F
 ""
 ""
@@ -1234,68 +1642,260 @@ F
 F
 ""
 1
-49
-49
-5
-"1"
-"1"
-F
-""
-"X2"
-"X2"
-F
-""
-"BW-082-896"
-"BW-082-896"
-F
-""
-"Osc 50MHz Epson SG210SED50.0000ML3"
-"Osc 50MHz Epson SG210SED50.0000ML3"
-F
-""
-""
-""
-F
-""
-7
-50
-50
-5
-"14"
-"14"
-F
-""
-"S1 S2 S3 S4 S5 S6 S7 S8 S9 S10 S11 S12 S13 S14"
-"S1 S2 S3 S4 S5 S6 S7 S8 S9 S10 S11 S12 S13 S14"
-F
-""
-"UNASSIGNED"
-"UNASSIGNED"
-F
-""
-"Switch Resistors dual no stub"
-"Switch Resistors dual no stub"
-F
-""
-"DNI"
-"DNI"
-F
-""
-51
-1
-2
-""
-"C1 C2 C3 C5 C7 C9 C10 C11 C12 C13 C14 C15 C16 C17 C18 C19 C20 C21 C22 C23 C24 C25 C26 C27 C28 C29 C30 C31 C32 C33 C34 C35 C36 C37 C38 C39 C40 C41 C43 C45 C47 C49 C50 C53 C56 C61 C63 C65 C67 C69 C71 C72 C74 C78 C80 C82 C84 C85 C95 C97 C99 C101 C103 C106 C109 C110"
-""
-""
-""
-""
-""
-T
-T
-F
-F
 66
+66
+5
+"6"
+"6"
+F
+""
+"U38 U39 U45 U50 U51 U52"
+"U38 U39 U45 U50 U51 U52"
+F
+""
+"BW-388-512"
+"BW-388-512"
+F
+""
+"IC NLSX5014 4-bit 100 Mb/s level translator TSSOP-14 On Semi NLSX5014DTR2G"
+"IC NLSX5014 4-bit 100 Mb/s level translator TSSOP-14 On Semi NLSX5014DTR2G"
+F
+""
+""
+""
+F
+""
+1
+67
+67
+5
+"4"
+"4"
+F
+""
+"U40 U41 U42 U43"
+"U40 U41 U42 U43"
+F
+""
+"BW-956-629"
+"BW-956-629"
+F
+""
+"IC TPS62361 buck switching reg pos adj BGA-16 TI TPS62361BYZHR"
+"IC TPS62361 buck switching reg pos adj BGA-16 TI TPS62361BYZHR"
+F
+""
+""
+""
+F
+""
+1
+68
+68
+5
+"1"
+"1"
+F
+""
+"U44"
+"U44"
+F
+""
+"BW-103-963"
+"BW-103-963"
+F
+""
+"IC FT232H USB to UART/FIFO QFN-48 FTDI FT232HQ-REEL"
+"IC FT232H USB to UART/FIFO QFN-48 FTDI FT232HQ-REEL"
+F
+""
+""
+""
+F
+""
+1
+69
+69
+5
+"1"
+"1"
+F
+""
+"U46"
+"U46"
+F
+""
+"BW-332-476"
+"BW-332-476"
+F
+""
+"IC SN74LVC257APWR Quad 2 1 MUX TSSOP-16 TI SN74LVC257APWR"
+"IC SN74LVC257APWR Quad 2 1 MUX TSSOP-16 TI SN74LVC257APWR"
+F
+""
+""
+""
+F
+""
+1
+70
+70
+5
+"1"
+"1"
+F
+""
+"U47"
+"U47"
+F
+""
+"BW-208-224"
+"BW-208-224"
+F
+""
+"IC CAT93C46V uWire EEPROM 1Kb SOIC-8 On Semi CAT93C46VI-GT3"
+"IC CAT93C46V uWire EEPROM 1Kb SOIC-8 On Semi CAT93C46VI-GT3"
+F
+""
+""
+""
+F
+""
+1
+71
+71
+5
+"2"
+"2"
+F
+""
+"U48 U49"
+"U48 U49"
+F
+""
+"BW-328-278"
+"BW-328-278"
+F
+""
+"IC ADF4351 wideband synthesizer w/integrated VCO LFCSP-32 Analog Devices ADF4351"
+"IC ADF4351 wideband synthesizer w/integrated VCO LFCSP-32 Analog Devices ADF4351"
+F
+""
+""
+""
+F
+""
+1
+72
+72
+5
+"1"
+"1"
+F
+""
+"X1"
+"X1"
+F
+""
+"BW-441-620"
+"BW-441-620"
+F
+""
+"Osc crystal 32.768kHz Citizen Finedevice CM315D32768HZFT"
+"Osc crystal 32.768kHz Citizen Finedevice CM315D32768HZFT"
+F
+""
+""
+""
+F
+""
+1
+73
+73
+5
+"1"
+"1"
+F
+""
+"X2"
+"X2"
+F
+""
+"BW-425-399"
+"BW-425-399"
+F
+""
+"Osc crystal 12MHz ECS ECS-120-18-5PX-TR"
+"Osc crystal 12MHz ECS ECS-120-18-5PX-TR"
+F
+""
+""
+""
+F
+""
+1
+74
+74
+5
+"1"
+"1"
+F
+""
+"X3"
+"X3"
+F
+""
+"BW-448-646"
+"BW-448-646"
+F
+""
+"Osc 125MHz Kyocera KC3225A125.000C30E00"
+"Osc 125MHz Kyocera KC3225A125.000C30E00"
+F
+""
+""
+""
+F
+""
+1
+75
+75
+5
+"1"
+"1"
+F
+""
+"X4"
+"X4"
+F
+""
+"BW-082-896"
+"BW-082-896"
+F
+""
+"Osc 50MHz Epson SG210SED50.0000ML3"
+"Osc 50MHz Epson SG210SED50.0000ML3"
+F
+""
+""
+""
+F
+""
+76
+1
+2
+""
+"C1 C5"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+2
 F
 F
 F
@@ -1304,7 +1904,7 @@ F
 2
 2
 ""
-"C4 C89 C90 C91 C104 C105 C107 C108"
+"C2 C4 C6 C8 C12 C14 C16 C17 C19 C21 C23 C25 C27 C29 C31 C33 C35 C37 C39 C41 C43 C45 C47 C49 C51 C53 C55 C57 C59 C61 C63 C65 C67 C69 C70 C73 C74 C77 C78 C79 C80 C83 C84 C87 C88 C89 C90 C93 C94 C97 C98 C99 C100 C103 C104 C107 C108 C109 C110 C113 C114 C117 C118 C119 C120 C123 C124 C127 C128 C129 C130 C133 C134 C137 C138 C139 C140 C141 C142 C143 C144 C145 C146 C147 C148 C149 C150 C151 C152 C153 C154 C155 C156 C157 C158 C159 C160 C161 C162 C163 C164 C165 C166 C167 C168 C169 C170 C171 C172 C173 C174 C175 C176 C177 C178 C179 C180 C181 C182 C184 C186 C187 C189 C191 C192 C194 C196 C197 C199 C201 C203 C205 C206 C207 C208 C213 C215 C216 C217 C218 C222 C223 C227 C228 C229 C231 C233 C235 C238 C242 C245 C247 C249 C251 C253 C256 C259"
 ""
 ""
 ""
@@ -1314,7 +1914,7 @@ T
 T
 F
 F
-8
+157
 F
 F
 F
@@ -1323,7 +1923,7 @@ F
 3
 2
 ""
-"C6 C8 C42 C46 C48 C52 C55 C60 C62 C64 C66 C68 C70 C73 C75 C76"
+"C3 C7 C13 C15 C18 C20 C22 C24 C26 C28 C30 C32 C34 C36 C38 C40 C42 C44 C46 C48 C50 C52 C54 C56 C58 C60 C62 C64 C66 C68 C71 C75 C76 C81 C85 C86 C91 C95 C96 C101 C105 C106 C111 C115 C116 C121 C125 C126 C131 C135 C136"
 ""
 ""
 ""
@@ -1333,7 +1933,7 @@ T
 T
 F
 F
-16
+51
 F
 F
 F
@@ -1342,7 +1942,7 @@ F
 4
 2
 ""
-"C44"
+"C9 C11"
 ""
 ""
 ""
@@ -1352,7 +1952,7 @@ T
 T
 F
 F
-1
+2
 F
 F
 F
@@ -1361,45 +1961,7 @@ F
 5
 2
 ""
-"C51 C54"
-""
-""
-""
-""
-""
-T
-T
-F
-F
-2
-F
-F
-F
-F
-0
-6
-2
-""
-"C57 C59"
-""
-""
-""
-""
-""
-T
-T
-F
-F
-2
-F
-F
-F
-F
-0
-7
-2
-""
-"C58"
+"C10"
 ""
 ""
 ""
@@ -1415,10 +1977,29 @@ F
 F
 F
 0
-8
+6
 2
 ""
-"C77 C79 C81 C83 C96 C98 C100 C102"
+"C72 C82 C92 C102 C112 C122 C132 C202 C204 C212 C214"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+11
+F
+F
+F
+F
+0
+7
+2
+""
+"C183 C185 C188 C190 C193 C195 C198 C200"
 ""
 ""
 ""
@@ -1434,10 +2015,29 @@ F
 F
 F
 0
+8
+2
+""
+"C209 C210 C211 C219 C237 C239 C240 C254 C255 C257 C258 C260"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+12
+F
+F
+F
+F
+0
 9
 2
 ""
-"C86 C92"
+"C220 C221"
 ""
 ""
 ""
@@ -1456,7 +2056,7 @@ F
 10
 2
 ""
-"C87 C93"
+"C224 C241"
 ""
 ""
 ""
@@ -1475,7 +2075,7 @@ F
 11
 2
 ""
-"C88 C94"
+"C225 C243"
 ""
 ""
 ""
@@ -1494,7 +2094,7 @@ F
 12
 2
 ""
-"D1"
+"C226 C244"
 ""
 ""
 ""
@@ -1504,7 +2104,7 @@ T
 T
 F
 F
-1
+2
 F
 F
 F
@@ -1513,7 +2113,7 @@ F
 13
 2
 ""
-"J1 J2 J3 J4 J5 J6 J7 J8 J9 J12 J13 J15 J16 J19"
+"C230 C232 C234 C236 C246 C248 C250 C252"
 ""
 ""
 ""
@@ -1523,7 +2123,7 @@ T
 T
 F
 F
-14
+8
 F
 F
 F
@@ -1532,7 +2132,7 @@ F
 14
 2
 ""
-"J10"
+"D1 D2 D3 D4"
 ""
 ""
 ""
@@ -1542,7 +2142,7 @@ T
 T
 F
 F
-1
+4
 F
 F
 F
@@ -1551,7 +2151,7 @@ F
 15
 2
 ""
-"J11"
+"D5"
 ""
 ""
 ""
@@ -1570,7 +2170,7 @@ F
 16
 2
 ""
-"J14"
+"E1 E2"
 ""
 ""
 ""
@@ -1580,7 +2180,7 @@ T
 T
 F
 F
-1
+2
 F
 F
 F
@@ -1589,7 +2189,7 @@ F
 17
 2
 ""
-"J17"
+"F1 F2 F3"
 ""
 ""
 ""
@@ -1599,7 +2199,7 @@ T
 T
 F
 F
-1
+3
 F
 F
 F
@@ -1608,7 +2208,7 @@ F
 18
 2
 ""
-"J18"
+"J1 J2 J3 J4 J5 J6 J7 J8 J9 J10 J55"
 ""
 ""
 ""
@@ -1618,7 +2218,7 @@ T
 T
 F
 F
-1
+11
 F
 F
 F
@@ -1627,7 +2227,7 @@ F
 19
 2
 ""
-"J20 J22 J24 J25 J26"
+"J11 J13 J51 J52 J68"
 ""
 ""
 ""
@@ -1646,7 +2246,7 @@ F
 20
 2
 ""
-"J21"
+"J12"
 ""
 ""
 ""
@@ -1665,7 +2265,7 @@ F
 21
 2
 ""
-"J23 J27 J28 J29 J30 J31 J32 J33 J34 J35 J36"
+"J14"
 ""
 ""
 ""
@@ -1675,7 +2275,7 @@ T
 T
 F
 F
-11
+1
 F
 F
 F
@@ -1684,7 +2284,7 @@ F
 22
 2
 ""
-"J37 J38 J39 J40 J41 J42 J43 J44 J45 J46 J47"
+"J15 J16 J17 J18 J19 J20 J21 J22 J23 J24 J25 J26 J27 J28 J29 J30 J31 J32 J33 J34 J35 J36 J37 J38 J39 J40 J41 J47 J48 J53"
 ""
 ""
 ""
@@ -1694,7 +2294,7 @@ T
 T
 F
 F
-11
+30
 F
 F
 F
@@ -1703,7 +2303,7 @@ F
 23
 2
 ""
-"L1 L2 L3 L4 L5 L6 L7 L8 L9"
+"J42 J43 J44 J45 J46 J69 J70 J71 J72 J73 J75 J76 J77 J78"
 ""
 ""
 ""
@@ -1713,7 +2313,7 @@ T
 T
 F
 F
-9
+14
 F
 F
 F
@@ -1722,7 +2322,7 @@ F
 24
 2
 ""
-"Q1"
+"J49"
 ""
 ""
 ""
@@ -1741,7 +2341,7 @@ F
 25
 2
 ""
-"R1 R52 R55 R56 R60 R61 R62 R63"
+"J50"
 ""
 ""
 ""
@@ -1751,7 +2351,7 @@ T
 T
 F
 F
-8
+1
 F
 F
 F
@@ -1760,7 +2360,7 @@ F
 26
 2
 ""
-"R2 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R32 R33 R34 R35 R36 R37 R38 R40 R41 R42 R43 R44 R45 R47 R48"
+"J54 J58 J59 J60 J61"
 ""
 ""
 ""
@@ -1770,7 +2370,7 @@ T
 T
 F
 F
-41
+5
 F
 F
 F
@@ -1779,7 +2379,7 @@ F
 27
 2
 ""
-"R3 R4"
+"J56"
 ""
 ""
 ""
@@ -1789,7 +2389,7 @@ T
 T
 F
 F
-2
+1
 F
 F
 F
@@ -1798,7 +2398,7 @@ F
 28
 2
 ""
-"R5"
+"J57"
 ""
 ""
 ""
@@ -1817,7 +2417,7 @@ F
 29
 2
 ""
-"R6"
+"J66"
 ""
 ""
 ""
@@ -1836,7 +2436,7 @@ F
 30
 2
 ""
-"R39 R46"
+"J67"
 ""
 ""
 ""
@@ -1846,7 +2446,7 @@ T
 T
 F
 F
-2
+1
 F
 F
 F
@@ -1855,7 +2455,7 @@ F
 31
 2
 ""
-"R49"
+"J74"
 ""
 ""
 ""
@@ -1874,83 +2474,7 @@ F
 32
 2
 ""
-"R50"
-""
-""
-""
-""
-""
-T
-T
-F
-F
-1
-F
-F
-F
-F
-0
-33
-2
-""
-"R51 R59"
-""
-""
-""
-""
-""
-T
-T
-F
-F
-2
-F
-F
-F
-F
-0
-34
-2
-""
-"R53 R57"
-""
-""
-""
-""
-""
-T
-T
-F
-F
-2
-F
-F
-F
-F
-0
-35
-2
-""
-"R54 R58"
-""
-""
-""
-""
-""
-T
-T
-F
-F
-2
-F
-F
-F
-F
-0
-36
-2
-""
-"R64 R65 R66 R67"
+"L1 L2 L3 L4"
 ""
 ""
 ""
@@ -1966,10 +2490,86 @@ F
 F
 F
 0
+33
+2
+""
+"L5 L6 L7 L8 L9 L10 L11 L12"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+8
+F
+F
+F
+F
+0
+34
+2
+""
+"M1 M2 M3 M4"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+4
+F
+F
+F
+F
+0
+35
+2
+""
+"M5"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+1
+F
+F
+F
+F
+0
+36
+2
+""
+"R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R32 R34 R35 R36 R37 R38 R39 R41 R42 R69 R70 R71 R73 R75 R76 R77 R78 R80 R81 R121"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+51
+F
+F
+F
+F
+0
 37
 2
 ""
-"U1 U15"
+"R33 R40"
 ""
 ""
 ""
@@ -1988,7 +2588,7 @@ F
 38
 2
 ""
-"U2 U13"
+"R43 R44 R45 R46"
 ""
 ""
 ""
@@ -1998,7 +2598,7 @@ T
 T
 F
 F
-2
+4
 F
 F
 F
@@ -2007,7 +2607,7 @@ F
 39
 2
 ""
-"U3"
+"R47 R50 R53 R56 R59 R62 R65"
 ""
 ""
 ""
@@ -2017,7 +2617,7 @@ T
 T
 F
 F
-1
+7
 F
 F
 F
@@ -2026,7 +2626,7 @@ F
 40
 2
 ""
-"U4"
+"R48 R51 R54 R57 R60 R63 R66"
 ""
 ""
 ""
@@ -2036,7 +2636,7 @@ T
 T
 F
 F
-1
+7
 F
 F
 F
@@ -2045,7 +2645,7 @@ F
 41
 2
 ""
-"U5"
+"R49 R52 R55 R58 R61 R64 R67"
 ""
 ""
 ""
@@ -2055,7 +2655,7 @@ T
 T
 F
 F
-1
+7
 F
 F
 F
@@ -2064,7 +2664,7 @@ F
 42
 2
 ""
-"U6 U7"
+"R68"
 ""
 ""
 ""
@@ -2074,7 +2674,7 @@ T
 T
 F
 F
-2
+1
 F
 F
 F
@@ -2083,7 +2683,7 @@ F
 43
 2
 ""
-"U8"
+"R72 R74 R79 R82"
 ""
 ""
 ""
@@ -2093,7 +2693,7 @@ T
 T
 F
 F
-1
+4
 F
 F
 F
@@ -2102,7 +2702,7 @@ F
 44
 2
 ""
-"U9"
+"R83 R84 R85 R86 R87 R88 R89"
 ""
 ""
 ""
@@ -2112,7 +2712,7 @@ T
 T
 F
 F
-1
+7
 F
 F
 F
@@ -2121,7 +2721,7 @@ F
 45
 2
 ""
-"U10"
+"R90 R91 R92 R93"
 ""
 ""
 ""
@@ -2131,7 +2731,7 @@ T
 T
 F
 F
-1
+4
 F
 F
 F
@@ -2140,7 +2740,7 @@ F
 46
 2
 ""
-"U11"
+"R94 R95 R96 R97 R99"
 ""
 ""
 ""
@@ -2150,7 +2750,7 @@ T
 T
 F
 F
-1
+5
 F
 F
 F
@@ -2159,7 +2759,7 @@ F
 47
 2
 ""
-"U12"
+"R98 R100 R130 R131 R132 R133"
 ""
 ""
 ""
@@ -2169,7 +2769,7 @@ T
 T
 F
 F
-1
+6
 F
 F
 F
@@ -2178,7 +2778,7 @@ F
 48
 2
 ""
-"U14 U16 U17"
+"R101 R103 R104 R105"
 ""
 ""
 ""
@@ -2188,7 +2788,7 @@ T
 T
 F
 F
-3
+4
 F
 F
 F
@@ -2197,7 +2797,7 @@ F
 49
 2
 ""
-"X1"
+"R102"
 ""
 ""
 ""
@@ -2216,7 +2816,7 @@ F
 50
 2
 ""
-"X2"
+"R106"
 ""
 ""
 ""
@@ -2235,7 +2835,7 @@ F
 51
 2
 ""
-"S1 S2 S3 S4 S5 S6 S7 S8 S9 S10 S11 S12 S13 S14"
+"R107 R110 R112 R113 R115 R118 R119 R120"
 ""
 ""
 ""
@@ -2245,7 +2845,482 @@ T
 T
 F
 F
-14
+8
+F
+F
+F
+F
+0
+52
+2
+""
+"R108 R116"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+2
+F
+F
+F
+F
+0
+53
+2
+""
+"R109 R117"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+2
+F
+F
+F
+F
+0
+54
+2
+""
+"R111 R114"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+2
+F
+F
+F
+F
+0
+55
+2
+""
+"U1 U2"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+2
+F
+F
+F
+F
+0
+56
+2
+""
+"U3"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+1
+F
+F
+F
+F
+0
+57
+2
+""
+"U4 U5"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+2
+F
+F
+F
+F
+0
+58
+2
+""
+"U6 U10"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+2
+F
+F
+F
+F
+0
+59
+2
+""
+"U7 U9 U11 U13"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+4
+F
+F
+F
+F
+0
+60
+2
+""
+"U8 U12"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+2
+F
+F
+F
+F
+0
+61
+2
+""
+"U14 U17 U20 U23 U26 U29 U32"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+7
+F
+F
+F
+F
+0
+62
+2
+""
+"U15 U18 U21 U24 U27 U30 U33"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+7
+F
+F
+F
+F
+0
+63
+2
+""
+"U16 U19 U22 U25 U28 U31 U34"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+7
+F
+F
+F
+F
+0
+64
+2
+""
+"U35"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+1
+F
+F
+F
+F
+0
+65
+2
+""
+"U36"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+1
+F
+F
+F
+F
+0
+66
+2
+""
+"U37"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+1
+F
+F
+F
+F
+0
+67
+2
+""
+"U38 U39 U45 U50 U51 U52"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+6
+F
+F
+F
+F
+0
+68
+2
+""
+"U40 U41 U42 U43"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+4
+F
+F
+F
+F
+0
+69
+2
+""
+"U44"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+1
+F
+F
+F
+F
+0
+70
+2
+""
+"U46"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+1
+F
+F
+F
+F
+0
+71
+2
+""
+"U47"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+1
+F
+F
+F
+F
+0
+72
+2
+""
+"U48 U49"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+2
+F
+F
+F
+F
+0
+73
+2
+""
+"X1"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+1
+F
+F
+F
+F
+0
+74
+2
+""
+"X2"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+1
+F
+F
+F
+F
+0
+75
+2
+""
+"X3"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+1
+F
+F
+F
+F
+0
+76
+2
+""
+"X4"
+""
+""
+""
+""
+""
+T
+T
+F
+F
+1
 F
 F
 F

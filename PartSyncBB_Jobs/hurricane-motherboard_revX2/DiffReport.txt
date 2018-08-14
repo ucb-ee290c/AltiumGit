@@ -1,202 +1,306 @@
- Compare of Part List: ASMPCB-hurricane-motherboard_revX2 to Database.                    2/3/2018 5:46:48 PM
-
-Added Part  : BW-794-372
-              
-              C1 C2 C3 C5 C7 C9 C10 C11 C12 C13 C14 C15 C16 C17 C18 C19 ...
-
-Added Part  : BW-489-672
-              
-              C4 C89 C90 C91 C104 C105 C107 C108
-
-Added Part  : BW-840-130
-              
-              C6 C8 C42 C46 C48 C52 C55 C60 C62 C64 C66 C68 C70 C73 C75 ...
-
-Added Part  : BW-012-654
-              
-              C44
+ Compare of Part List: ASMPCB-hurricane-motherboard_revX2 to Database.                    5/6/2018 2:51:32 PM
 
 Added Part  : BW-701-605
               
-              C51 C54
+              C1 C5
+
+Added Part  : BW-459-999
+              
+              C2 C4 C6 C8 C12 C14 C16 C17 C19 C21 C23 C25 C27 C29 C31 C ...
+
+Added Part  : BW-840-130
+              
+              C3 C7 C13 C15 C18 C20 C22 C24 C26 C28 C30 C32 C34 C36 C38 ...
 
 Added Part  : BW-700-435
               
-              C57 C59
+              C9 C11
 
 Added Part  : BW-466-928
               
-              C58
+              C10
 
-Added Part  : BW-301-231
+Added Part  : BW-012-654
               
-              C77 C79 C81 C83 C96 C98 C100 C102
+              C72 C82 C92 C102 C112 C122 C132 C202 C204 C212 C214
+
+Added Part  : BW-373-241
+              
+              C183 C185 C188 C190 C193 C195 C198 C200
+
+Added Part  : BW-324-209
+              
+              C209 C210 C211 C219 C237 C239 C240 C254 C255 C257 C258 C260
+
+Added Part  : BW-811-743
+              
+              C220 C221
 
 Added Part  : BW-496-598
               
-              C86 C92
+              C224 C241
 
 Added Part  : BW-173-862
               
-              C87 C93
+              C225 C243
 
 Added Part  : BW-419-162
               
-              C88 C94
+              C226 C244
+
+Added Part  : BW-301-231
+              
+              C230 C232 C234 C236 C246 C248 C250 C252
+
+Added Part  : BW-441-382
+              
+              D1 D2 D3 D4
 
 Added Part  : BW-364-542
               
-              D1
+              D5
 
-Added Part  : BW-222-950
+Added Part  : BW-375-090
               
-              J1 J2 J3 J4 J5 J6 J7 J8 J9 J12 J13 J15 J16 J19
+              E1 E2
 
-Added Part  : BW-008-317
+Added Part  : BW-036-369
               
-              J10
-
-Added Part  : BW-970-533
-              
-              J11
-
-Added Part  : BW-009-332
-              
-              J14
-
-Added Part  : BW-935-627
-              
-              J17
-
-Added Part  : BW-349-120
-              
-              J18
-
-Added Part  : BW-003-156
-              
-              J20 J22 J24 J25 J26
-
-Added Part  : BW-715-979
-              
-              J21
+              F1 F2 F3
 
 Added Part  : BW-072-821
               
-              J23 J27 J28 J29 J30 J31 J32 J33 J34 J35 J36
+              J1 J2 J3 J4 J5 J6 J7 J8 J9 J10 J55
+
+Added Part  : BW-003-156
+              
+              J11 J13 J51 J52 J68
+
+Added Part  : BW-009-332
+              
+              J12
+
+Added Part  : BW-970-533
+              
+              J14
 
 Added Part  : BW-389-759
               
-              J37 J38 J39 J40 J41 J42 J43 J44 J45 J46 J47
+              J15 J16 J17 J18 J19 J20 J21 J22 J23 J24 J25 J26 J27 J28 J ...
+
+Added Part  : BW-222-950
+              
+              J42 J43 J44 J45 J46 J69 J70 J71 J72 J73 J75 J76 J77 J78
+
+Added Part  : BW-330-143
+              
+              J49
+
+Added Part  : BW-543-902
+              
+              J50
+
+Added Part  : BW-184-356
+              
+              J54 J58 J59 J60 J61
+
+Added Part  : BW-059-905
+              
+              J56
+
+Added Part  : BW-866-261
+              
+              J57
+
+Added Part  : BW-715-979
+              
+              J66
+
+Added Part  : BW-350-512
+              
+              J67
+
+Added Part  : BW-008-317
+              
+              J74
+
+Added Part  : BW-163-397
+              
+              L1 L2 L3 L4
 
 Added Part  : BW-002-808
               
-              L1 L2 L3 L4 L5 L6 L7 L8 L9
+              L5 L6 L7 L8 L9 L10 L11 L12
+
+Added Part  : BW-418-701
+              
+              M1 M2 M3 M4
 
 Added Part  : BW-691-371
               
-              Q1
-
-Added Part  : BW-783-395
-              
-              R1 R52 R55 R56 R60 R61 R62 R63
+              M5
 
 Added Part  : BW-740-618
               
-              R2 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 R ...
-
-Added Part  : BW-800-965
-              
-              R3 R4
-
-Added Part  : BW-182-504
-              
-              R5
-
-Added Part  : BW-117-435
-              
-              R6
+              R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R1 ...
 
 Added Part  : BW-258-029
               
-              R39 R46
+              R33 R40
+
+Added Part  : BW-800-965
+              
+              R43 R44 R45 R46
 
 Added Part  : BW-656-709
               
-              R49
+              R47 R50 R53 R56 R59 R62 R65
+
+Added Part  : BW-182-504
+              
+              R48 R51 R54 R57 R60 R63 R66
+
+Added Part  : BW-117-435
+              
+              R49 R52 R55 R58 R61 R64 R67
+
+Added Part  : BW-657-023
+              
+              R68
+
+Added Part  : BW-531-013
+              
+              R72 R74 R79 R82
+
+Added Part  : BW-015-470
+              
+              R83 R84 R85 R86 R87 R88 R89
 
 Added Part  : BW-020-333
               
-              R50
-
-Added Part  : BW-026-055
-              
-              R51 R59
-
-Added Part  : BW-686-191
-              
-              R53 R57
-
-Added Part  : BW-038-026
-              
-              R54 R58
+              R90 R91 R92 R93
 
 Added Part  : BW-242-342
               
-              R64 R65 R66 R67
+              R94 R95 R96 R97 R99
 
-Added Part  : BW-328-278
+Added Part  : BW-971-870
               
-              U1 U15
+              R98 R100 R130 R131 R132 R133
 
-Added Part  : BW-360-543
+Added Part  : BW-687-360
               
-              U2 U13
+              R101 R103 R104 R105
 
-Added Part  : BW-280-531
+Added Part  : BW-207-404
               
-              U3
+              R102
 
-Added Part  : BW-507-628
+Added Part  : BW-976-525
               
-              U4
+              R106
 
-Added Part  : BW-430-932
+Added Part  : BW-783-395
               
-              U5
+              R107 R110 R112 R113 R115 R118 R119 R120
+
+Added Part  : BW-686-191
+              
+              R108 R116
+
+Added Part  : BW-038-026
+              
+              R109 R117
+
+Added Part  : BW-026-055
+              
+              R111 R114
 
 Added Part  : BW-920-319
               
-              U6 U7
+              U1 U2
 
 Added Part  : BW-493-051
               
-              U8
+              U3
+
+Added Part  : BW-280-531
+              
+              U4 U5
 
 Added Part  : BW-832-719
               
-              U9
+              U6 U10
+
+Added Part  : BW-360-543
+              
+              U7 U9 U11 U13
 
 Added Part  : BW-595-034
               
-              U10
+              U8 U12
+
+Added Part  : BW-507-628
+              
+              U14 U17 U20 U23 U26 U29 U32
+
+Added Part  : BW-430-932
+              
+              U15 U18 U21 U24 U27 U30 U33
 
 Added Part  : BW-388-492
               
-              U11
+              U16 U19 U22 U25 U28 U31 U34
 
-Added Part  : BW-956-629
+Added Part  : BW-822-598
               
-              U12
+              U35
+
+Added Part  : BW-468-510
+              
+              U36
+
+Added Part  : BW-669-396
+              
+              U37
 
 Added Part  : BW-388-512
               
-              U14 U16 U17
+              U38 U39 U45 U50 U51 U52
 
-Added Part  : BW-448-646
+Added Part  : BW-956-629
+              
+              U40 U41 U42 U43
+
+Added Part  : BW-103-963
+              
+              U44
+
+Added Part  : BW-332-476
+              
+              U46
+
+Added Part  : BW-208-224
+              
+              U47
+
+Added Part  : BW-328-278
+              
+              U48 U49
+
+Added Part  : BW-441-620
               
               X1
 
-Added Part  : BW-082-896
+Added Part  : BW-425-399
               
               X2
+
+Added Part  : BW-448-646
+              
+              X3
+
+Added Part  : BW-082-896
+              
+              X4
 
