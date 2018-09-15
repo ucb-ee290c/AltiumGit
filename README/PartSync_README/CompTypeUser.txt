@@ -46,8 +46,9 @@ CHM-SOLDER		Chemical Solder
 CHM-SOLV		Chemical Solvent
 CIR-BRK		Circuit Breakers
 CON   		Connector Other
-CON-025		Connector .025sq
-CON-2MM		Connector 2mm
+CON-025		Connector .025sq post
+CON-50		Connector 50mil pitch
+CON-2MM		Connector 2mm pitch
 CON-CIR		Connector Circular
 CON-CLIP		Connector Battery Clip
 CON-D			Connector D Series
