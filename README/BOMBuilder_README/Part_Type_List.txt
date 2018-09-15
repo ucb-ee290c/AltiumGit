@@ -8,5 +8,6 @@ M=MOSFET
 Q=Transistor
 R=Res
 S=Switch
+T=Test point
 U=IC
 X=Crystal/Oscillator
