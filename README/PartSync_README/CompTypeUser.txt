@@ -23,6 +23,7 @@ CAPC-0603		Cap Ceramic 0603
 CAPC-0805		Cap Ceramic 0805		
 CAPC-1206		Cap Ceramic 1206		
 CAPC-1210		Cap Ceramic 1210	 
+CAPC-1812		Cap Ceramic 1812
 CAPC-NOMAG		Cap Ceramic non-magnetic
 CAPE-AL-GP		Cap Elect. General Purpose		
 CAPE-AL-LZ		Cap Elect. Low Impedance 		
@@ -48,6 +49,8 @@ CIR-BRK		Circuit Breakers
 CON   		Connector Other
 CON-025		Connector .025sq post
 CON-50		Connector 50mil pitch
+CON-.5MM	Connector 0.5mm pitch
+CON-.8MM	Connector 0.8mm pitch
 CON-2MM		Connector 2mm pitch
 CON-CIR		Connector Circular
 CON-CLIP		Connector Battery Clip
@@ -75,6 +78,7 @@ D-ZENER		Diode Zener
 EM-BUZZ		Electromechanical Buzzer
 EM-SPKR		Electromechanical Speaker
 EM-MOT		Electromechanical Motor
+FILTER		Filter Network
 FOOTPRINT   	Foot print footprint  
 FUSE			Fuses
 FUSE-PTC		Fuses PTC
@@ -174,6 +178,7 @@ R1%-1206		Res Chip 1% 1206
 R1%-1210		Res Chip 1% 1210
 R1%-1508		Res Chip 1% 1508
 R1%-2512		Res Chip 1% 2512
+R1%-2725		Res Chip 1% 2725
 R1%			Resistor 1% Misc	
 R5%-01005		Res Chip 5% 01005
 R5%-0201		Res Chip 5% 0201
