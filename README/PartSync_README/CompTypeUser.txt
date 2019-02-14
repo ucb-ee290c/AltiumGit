@@ -12,6 +12,7 @@ CABASM-DC		Cable Assembly DC
 CABASM-CUST	Cable Assembly Custom
 CABASM-DATA	Cable Assembly Data 
 CABASM-FR		Cable Assembly Flat Ribbon
+CABASM-TPR		Cable Assembly Twisted Pair Ribbon
 CABASM-RF		Cable Assembly RF
 CABASM-USB		Cable Assembly USB
 CAPC			Cap Ceramic	
@@ -49,8 +50,8 @@ CIR-BRK		Circuit Breakers
 CON   		Connector Other
 CON-025		Connector .025sq post
 CON-50		Connector 50mil pitch
-CON-.5MM	Connector 0.5mm pitch
-CON-.8MM	Connector 0.8mm pitch
+CON-.5MM		Connector 0.5mm pitch
+CON-.8MM		Connector 0.8mm pitch
 CON-2MM		Connector 2mm pitch
 CON-CIR		Connector Circular
 CON-CLIP		Connector Battery Clip
@@ -65,6 +66,7 @@ CON-RJ		Connector RJ Series
 CON-SKT		Connector Socket
 CON-PIN		Connector Pins
 CON-PWR 		Connector Power
+CON-QSFP 		Connector QSFP
 CON-SPRING		Connector springy compression pogo
 CON-USB		Connector USB
 CON-SHUNT		Connector Shunt jumper
