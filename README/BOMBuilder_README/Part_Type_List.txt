@@ -1,3 +1,4 @@
+A=Antenna
 B=Battery
 C=Cap
 D=Diode
