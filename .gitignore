@@ -5,7 +5,6 @@
 *.ldb
 *.CMP
 *.REP
-*.CSV
 BWRC-Libs/NDC_DFM_Libraries.PcbLib
 BWRC-Libs/NDC_DFM_Libraries.SchLib
 BWRC-Libs/BWRC.ERR
