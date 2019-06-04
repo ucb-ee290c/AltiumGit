@@ -26,6 +26,8 @@ CAPC-1206		Cap Ceramic 1206
 CAPC-1210		Cap Ceramic 1210	 
 CAPC-1812		Cap Ceramic 1812
 CAPC-NOMAG		Cap Ceramic non-magnetic
+CAPC_WB_012012		Cap Ceramic single layer wirebond 012012
+CAPC_WB_0303		Cap Ceramic single layer wirebond 0303
 CAPE-AL-GP		Cap Elect. General Purpose		
 CAPE-AL-LZ		Cap Elect. Low Impedance 		
 CAPE-AL-SP		Cap Elect. Solid Polymer		
