@@ -5,6 +5,9 @@
 *.ldb
 *.CMP
 *.REP
+*.STEP
+*.STP
+*.LOG
 BWRC-Libs/NDC_DFM_Libraries.PcbLib
 BWRC-Libs/NDC_DFM_Libraries.SchLib
 BWRC-Libs/BWRC.ERR
