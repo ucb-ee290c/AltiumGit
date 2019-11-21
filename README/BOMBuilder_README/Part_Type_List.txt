@@ -9,6 +9,6 @@ L=Inductor
 Q=Transistor
 R=Res
 S=Switch
-TP=Test Point
+T=Test Point
 U=IC
 X=Crystal/Oscillator
