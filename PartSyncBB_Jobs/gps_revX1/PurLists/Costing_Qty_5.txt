@@ -1,0 +1,31 @@
+    Build 5  C:\Users\aflynn\data\AltiumGit\PartSyncBB_Jobs\gps_revX1\PurLists\
+
+Need    Part Number  BuyAt   Cost            Description
+---------------------------------------------------------------------------
+125     BW-514-503  100    $2.12         Cap ceramic 0.1uF 10V 20% X5R 0402 Samsung CL05A104MP5NNNC
+70      BW-373-241  100    $5.94         Cap ceramic 10uF 6.3V 20% X5R 0603 Taiyo Yuden JMK107BJ106MA-T
+10      BW-432-272  10     $36.72        Con SMA female jack str 50 ohm18GHz  PCB SMT Molex 0732511352
+5       BW-437-404  1      $12.65        Con uSD card recp Molex 5033981892
+5       BW-330-143  1      $110.10       Con 400 pin 1.27mm FMC VITA 57 male plug 10mm stkd ht Samtec ASP-134488-01
+5       BW-202-499  1      $30.15        Con 10 pin 100 mil 2x5 str male shrouded w/locking clip & ejector tabs, SMT Samtec EJH-105-02-L-D-SM-LC
+5       BW-143-925  1      $2.65         Con 4 pin 50 mil 2x2 str male, surface mnt, 0.150" post height Samtec FTSH-102-04-F-DV
+5       BW-185-936  1      $1.82         Con 2 pin 50 mil 1x2 str male, surface mnt, 0.120" post height Samtec FTS-102-01-L-SV
+10      BW-002-808  10     $3.23         Inductor 1uH  650mA 0603 Taiyo Yuden BRL1608T1R0M
+20      BW-015-470  10     $0.86         Res 16K 1% 1/10W 0402 Panasonic ERJ-2RKF1602X
+10      BW-532-263  10     $0.53         Res 0 1/10W 0603 Panasonic ERJ-3GEY0R00V
+45      BW-242-342  10     $0.90         Res 100K 1% 1/16W 0402 Yageo RC0402FR-07100KL
+5       BW-309-538  1      $0.50         Res 604 1% 1/10W 0402 Panasonic ERJ-2RKF6040X
+15      BW-182-504  10     $0.86         Res 200 1% 1/10W 0402 Panasonic ERJ-2RKF2000X
+5       BW-482-028  1      $10.95        Switch DIP1 position, 2 pin, SPST SMT Wurth 418121160801
+5       BW-793-167  1      $2.45         Switch momentary SPST-NO tactile 4 pin  6mm SMT E-Switch TL3301AF160QJ
+20      BW-966-768  10     $6.32         Test point loop 63mil dia hole black Keystone 5006
+5       BW-700-030  1      $47.60        IC NB7V58M LVDS clock multiplexer 2:1 QFN-16 ON NB7V58MMNG
+5       BW-736-947  NONE   $0.00         IC custom GPS CRAFT-packaged BGA die 676 0.6mm balls, 1mm pitch BWRC
+5       BW-032-153  1      $10.30        IC TPS3125 1.62V supply monitor (POR generator) TI TPS3125J18DBVR
+20      BW-380-427  10     $27.62        IC SN74AVC4T234 level shifter 4-ch unidirectional uCSP-11 TI SN74AVC4T234ZSUR
+10      BW-430-932  1      $62.50        IC LT3022 adj LDO regulator 1A MSOP-EP-16 Linear Tech LT3022EMSE#PBF
+5       BW-723-518  1      $15.60        Osc 200MHz  50ppm LVDS 6-pin Microchip DSC1103CI1-200.0000
+
+---------------------------------------------------------------------------
+Total Cost: $392.36
+Unit  Cost: $78.47
