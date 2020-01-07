@@ -1,0 +1,14 @@
+A=Antenna
+B=Balun
+C=Cap
+D=Diode
+DS=LED
+F=Ferrite Bead
+J=Jack
+L=Inductor
+Q=Transistor
+R=Res
+S=Switch
+T=Test Point
+U=IC
+X=Crystal/Oscillator
