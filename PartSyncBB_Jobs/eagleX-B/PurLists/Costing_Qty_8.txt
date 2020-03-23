@@ -1,0 +1,35 @@
+    Build 8  C:\Users\aflynn\data\AltiumGit\PartSyncBB_Jobs\eagleX-B\PurLists\
+
+Need    Part Number  BuyAt   Cost            Description
+---------------------------------------------------------------------------
+240     BW-794-372  100    $5.91         Cap ceramic 0.1uF 10V 10% X5R 0402 Murata GRM155R61A104KA01D
+256     BW-373-241  100    $17.82        Cap ceramic 10uF 6.3V 20% X5R 0603 Taiyo Yuden JMK107BJ106MA-T
+48      BW-601-380  50     $225.51       Con SMA female jack str 50 ohm 18GHz  PCB SMT Cinch 142-0711-202
+8       BW-623-913  1      $5.76         Con 8 pin 100 mil 2x4 str male thru 0.230" post height Samtec ?TSW-104-07-L-D?
+8       BW-330-143  1      $176.16       Con 400 pin 1.27mm FMC VITA 57 male plug 10mm stkd ht Samtec ASP-134488-01
+8       BW-437-404  1      $20.24        Con uSD card recp Molex 5033981892
+16      BW-278-258  1      $13.44        Con 1 pin banana jack solderable Keystone 575-4
+8       BW-865-497  1      $4.32         Con 6 pin 100 mil 2x3 str male thru 0.230" post height Samtec ?TSW-103-07-L-D??
+8       BW-038-636  1      $2.16         Con 2 pin 100 mil 1x2 str male thru 0.230" post height Samtec ?TSW-102-07-G-S?
+16      BW-002-808  10     $6.46         Inductor 1uH  650mA 0603 Taiyo Yuden BRL1608T1R0M
+16      BW-532-263  25     $0.95         Res 0 1/10W 0603 Panasonic ERJ-3GEY0R00V
+16      BW-740-618  10     $0.58         Res 3.9K 5% 1/10W 0402 Panasonic ERJ-2GEJ392X
+32      BW-242-342  10     $0.72         Res 100K 1% 1/16W 0402 Yageo RC0402FR-07100KL
+32      BW-015-470  10     $1.72         Res 16K 1% 1/10W 0402 Panasonic ERJ-2RKF1602X
+8       BW-864-043  10     $0.56         Res 698 1% 1/10W 0402 Panasonic ERJ-2RKF6980X
+24      BW-182-504  10     $1.29         Res 200 1% 1/10W 0402 Panasonic ERJ-2RKF2000X
+8       BW-793-167  1      $3.92         Switch momentary SPST-NO tactile 4 pin  6mm SMT E-Switch TL3301AF160QJ
+8       BW-482-028  1      $17.52        Switch DIP1 position, 2 pin, SPST SMT Wurth 418121160801
+24      BW-966-768  10     $9.48         Test point loop 63mil dia hole black Keystone 5006
+8       BW-384-923  1      $2.80         Test point loop 63mil dia hole red Keystone 5005
+8       BW-893-478  NONE   $0.00         IC custom EagleX-packaged BGA die 399 0.25mm balls, 0.8mm pitch BWRC
+16      BW-380-427  10     $27.62        IC SN74AVC4T234 level shifter 4-ch unidirectional uCSP-11 TI SN74AVC4T234ZSUR
+8       BW-700-030  1      $76.16        IC NB7V58M LVDS clock multiplexer 2:1 QFN-16 ON NB7V58MMNG
+8       BW-032-153  1      $16.48        IC TPS3125 1.62V supply monitor (POR generator) TI TPS3125J18DBVR
+8       BW-468-510  1      $2.96         IC M24128 128Kb (16K x 8) I2C 1MHz EEPROM TSSOP-8 ST M24128-BRDW6TP
+16      BW-430-932  1      $100.00       IC LT3022 adj LDO regulator 1A MSOP-EP-16 Linear Tech LT3022EMSE#PBF
+8       BW-579-909  1      $23.04        Osc 300MHz LVDS 6-pin Microchip DSC1103CI5-300.0000
+
+---------------------------------------------------------------------------
+Total Cost: $763.58
+Unit  Cost: $95.45
