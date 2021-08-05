@@ -4,14 +4,14 @@ BALUN			Balun
 BAT			Battery batt
 BULB			Bulbs
 CAB     		Cable Supplies Shields
-CAB-FFC		Cable Flex Flat
+CAB-FFC			Cable Flex Flat
 CAB-MULTI		Cable Multiwire Twisted Pair
 CAB-RIBBON		Cable Ribbon
-CAB-TIE		Cable tie 
+CAB-TIE			Cable tie 
 CABASM-AC		Cable Assembly AC
 CABASM-DC		Cable Assembly DC
-CABASM-CUST	Cable Assembly Custom
-CABASM-DATA	Cable Assembly Data 
+CABASM-CUST		Cable Assembly Custom
+CABASM-DATA		Cable Assembly Data 
 CABASM-FR		Cable Assembly Flat Ribbon
 CABASM-TPR		Cable Assembly Twisted Pair Ribbon
 CABASM-RF		Cable Assembly RF
@@ -27,8 +27,8 @@ CAPC-1206		Cap Ceramic 1206
 CAPC-1210		Cap Ceramic 1210	 
 CAPC-1812		Cap Ceramic 1812
 CAPC-NOMAG		Cap Ceramic non-magnetic
-CAPC_WB_012015	Cap Ceramic single layer wirebond 012015
-CAPC_WB_0303	Cap Ceramic single layer wirebond 0303
+CAPC_WB_012015		Cap Ceramic single layer wirebond 012015
+CAPC_WB_0303		Cap Ceramic single layer wirebond 0303
 CAPE-AL-GP		Cap Elect. General Purpose		
 CAPE-AL-LZ		Cap Elect. Low Impedance 		
 CAPE-AL-SP		Cap Elect. Solid Polymer		
@@ -39,86 +39,93 @@ CAPF-0402		Cap Film 0402
 CAPF-0603		Cap Film 0603		
 CAPF-0805		Cap Film 0805		
 CAPF-1206		Cap Film 1206
-CAP-KIT		Cap kit
+CAP-KIT			Cap kit
 CAP-SUPER		Cap supercapacitor
 CAPT			Cap Tantalum
-CAP-VAR		Cap Var.
+CAP-VAR			Cap Variable
 CHM			Chemical Other
 CHM-ADHV		Chemical Adhesive Glue
 CHM-EPXY		Chemical Epoxy
 CHM-FLUX		Chemical Flux
 CHM-SOLDER		Chemical Solder
 CHM-SOLV		Chemical Solvent
-CIR-BRK		Circuit Breakers
-CON   		Connector Other
-CON-025		Connector .025sq post
-CON-50		Connector 50mil pitch
+CIR-BRK			Circuit Breakers
+CON   			Connector Other
+CON-025			Connector .025sq post
+CON-50			Connector 50mil pitch
+CON-100			Connector 100mil pitch
 CON-.5MM		Connector 0.5mm pitch
 CON-.8MM		Connector 0.8mm pitch
-CON-2MM		Connector 2mm pitch
-CON-CIR		Connector Circular
+CON-1MM			Connector 1mm pitch
+CON-1.25MM		Connector 1.25mm pitch
+CON-1.5MM		Connector 1.5mm pitch
+CON-1.8MM		Connector 1.8mm pitch
+CON-2MM			Connector 2mm pitch
+CON-CIR			Connector Circular
 CON-CLIP		Connector Battery Clip
 CON-D			Connector D Series
 CON-FLEX		Connector Flex FFC
-CON-FMC		Connector FMC
-CON-FO		Connector Fiber Optic
+CON-FMC			Connector FMC
+CON-FO			Connector Fiber Optic
 CON-RECT		Connector Rectangular
-CON-RF		Connector RF BNC N SMA SMB SMC SMP MCX MMCX UFL
-CON-RF-ADPT	Connector RF Between series adapter
-CON-RJ		Connector RJ Series
-CON-SKT		Connector Socket
-CON-PIN		Connector Pins
+CON-RF			Connector RF BNC N SMA SMB SMC SMP MCX MMCX UFL
+CON-RF-ADPT		Connector RF Between series adapter
+CON-RJ			Connector RJ Series
+CON-SKT			Connector Socket
+CON-PIN			Connector Pin
 CON-PWR 		Connector Power
 CON-QSFP 		Connector QSFP
 CON-SPRING		Connector springy compression pogo
-CON-USB		Connector USB
+CON-USB			Connector USB
 CON-SHUNT		Connector Shunt jumper
-CRY-OSC		Crystal Oscillator XTAL
+CRY-OSC			Crystal Oscillator XTAL
 DIE-CUSTOM		Die Custom BWRC
-D-PIN			Diodes PIN
-D-PN			Diodes PN Junction
-D-PNUF		Diodes PN Fast & Ultra
-D-SHTKY		Diode Schottky
-D-ZENER		Diode Zener
-EM-BUZZ		Electromechanical Buzzer
-EM-SPKR		Electromechanical Speaker
-EM-MOT		Electromechanical Motor
-FILTER		Filter Network
-FOOTPRINT   	Foot print footprint  
+D-PIN			Diode PIN
+D-PN			Diode PN Junction
+D-PNUF			Diode PN Fast & Ultra
+D-SHTKY			Diode Schottky
+D-ZENER			Diode Zener
+EM-BUZZ			Electromechanical Buzzer
+EM-JOYSTK		Electromechanical Joystick
+EM-MOT			Electromechanical Motor
+EM-SPKR			Electromechanical Speaker
+FERRITE			Ferrite toroid
+FILTER			Filter Network
+FOOTPRINT   		Foot print footprint  
 FUSE			Fuses
 FUSE-PTC		Fuses PTC
 FBEAD     		Ferrite Bead
 HDW			Hardware Other
-HDW-#0		Hardware #0
-HDW-#2		Hardware #2
-HDW-#4		Hardware #4
-HDW-#6		Hardware #6
-HDW-#8		Hardware #8
-HDW-#10		Hardware #10
-HDW-M1		Hardware 1.0mm
+HDW-#0			Hardware #0
+HDW-#2			Hardware #2
+HDW-#4			Hardware #4
+HDW-#6			Hardware #6
+HDW-#8			Hardware #8
+HDW-#10			Hardware #10
+HDW-M1			Hardware 1.0mm
 HDW-M1.2		Hardware 1.2mm
 HDW-M1.6		Hardware 1.6mm
-HDW-M2		Hardware 2.0mm
+HDW-M2			Hardware 2.0mm
 HDW-M2.5		Hardware 2.5mm
-HDW-M3		Hardware 3.0mm
-HDW-M4		Hardware 4.0mm
-HDW-M5		Hardware 5.0mm
-HDW-M6		Hardware 6.0mm
-HDW-BOX		Hardware Box Enclosure Case
+HDW-M3			Hardware 3.0mm
+HDW-M4			Hardware 4.0mm
+HDW-M5			Hardware 5.0mm
+HDW-M6			Hardware 6.0mm
+HDW-BOX			Hardware Box Enclosure Case
 HDW-BUMP		Hardware Bumpers Feet
 HDW-BUSH		Hardware Bushing
 HDW-CLIP		Hardware Clips
-HDW-EYE		Hardware Eyelets
+HDW-EYE			Hardware Eyelets
 HDW-GROM		Hardware Grommets
 HDW-HTSHRK		Hardware Heat shrink tubing
 HDW-LABL		Hardware Labels
-HDW-PIN		Hardware dowel registers pin pins
+HDW-PIN			Hardware dowel registers pin pins
 HDW-RIVET		Hardware Rivets
-HDW-SEW		Hardware Needles zippers eye hooks snaps
+HDW-SEW			Hardware Needles zippers eye hooks snaps
 HDW-SPACE		Hardware Spacer
 HDW-STAND		Hardware Standoff
+HDW-STATIC		Hardware Anti static grounding shielding mat
 HDW-TAPE		Hardware Tapes Tape
-HDW-TIES		Hardware Ties
 HDW-TUBE		Hardware Tubing
 HDW-VELCRO		Hardware Velcro 
 HEAT-SINK		Heat Sinks
@@ -133,9 +140,9 @@ IND-DRUM		Inductors DRUM
 IND-NOMAG		Inductors non-magnetic air core
 IND-Chip		Inductors Chip Misc
 LED			Leds
-MAT-PCB		Materials PCB Substrate Pyralux Duroid 
+MAT-PCB			Materials PCB Substrate Pyralux Duroid 
 MAT-METAL		Materials Aluminum Steel Copper metal conductor
-MAT-INS		Materials Nylon Plastic Ultem G10 FR4 PEEK PET Acrylic 		Mylar insulator
+MAT-INS			Materials Nylon Plastic Ultem G10 FR4 PEEK PET Acrylic 		Mylar insulator
 MAT-FABRIC		Materials Fabric Kevlar Nomex Cotton
 MOD			Modules Eval Dongle
 ORG			Organizer bins drawers cabinet tote
@@ -143,17 +150,18 @@ OPTO			Opto Parts - Isolators LCD Display
 PCB			PCB 
 Q-NPN			Transistor NPN
 Q-PNP			Transistor PNP
-Q-NJFET		Transistor N Channel JFET
-Q-PJFET		Transistor P Channel  JFET
-Q-NMOS		Transistor N Channel MOSFET
-Q-PMOS		Transistor P Channel MOSFET
+Q-NJFET			Transistor N Channel JFET
+Q-PJFET			Transistor P Channel  JFET
+Q-NMOS			Transistor N Channel MOSFET
+Q-PMOS			Transistor P Channel MOSFET
+Q-pHEMT			Transistor GaAs pHEMT
 RES			Resistor
 RES-1/4W		Resistor 1/4W 1%>>90%
 RES-1/2W		Resistor 1/2W 1%>>90%
-RES-1W		Resistor 1W  1%>>90%
-RES-2W		Resistor 2W  1%>>90%
-RES-3W		Resistor 3W  1%>>90%
-RES-5W		Resistor 5W  1%>>90%
+RES-1W			Resistor 1W  1%>>90%
+RES-2W			Resistor 2W  1%>>90%
+RES-3W			Resistor 3W  1%>>90%
+RES-5W			Resistor 5W  1%>>90%
 RES-10W  		Resistor 10W 1%>>90%
 RES-NWRK		Resistor Network
 R.1%-01005		Res Chip .1% 01005
@@ -165,6 +173,7 @@ R.1%-1206		Res Chip .1% 1206
 R.1%-1210		Res Chip .1% 1210
 R.1%-2512		Res Chip .1% 2512
 R.1%			Resistor .1% Misc
+R.25%-2010		Res Chip .25% 2010
 R.5%-01005		Res Chip .5% 01005
 R.5%-0201		Res Chip .5% 0201
 R.5%-0402		Res Chip .5% 0402
@@ -191,10 +200,13 @@ R5%-0402		Res Chip 5% 0402
 R5%-0603		Res Chip 5% 0603
 R5%-0805		Res Chip 5% 0805
 R5%-1206		Res Chip 5% 1206
-R5%-1210		Res Chips 5% 1210
+R5%-1210		Res Chip 5% 1210
+R5%-1512		Res Chip 5% 1512
+R5%-2015		Res Chip 5% 2015
 R5%-2512		Res Chip 5% 2512
+R5%-2520		Res Chip 5% 2520
 R5%	        	Resistor 5% Misc	
-RES-KIT		Res kit
+RES-KIT			Res kit
 RVAR			Var. Res.
 RVAR-3MM		Var. Res. 3mm
 RVAR-4MM		Var. Res. 4mm
@@ -203,40 +215,47 @@ RVAR-6MM		Var. Res. 6mm
 RLY			Relay
 SW			Switch
 SW-ARRAY		Switch Array (DIP)
-SW-PUSH		Switch Push Button
-SW-TOGL		Switch Toggle
-TA-MOV		Transient Absorber Metal Oxide MOV
+SW-PUSH			Switch Push Button
+SW-SLIDE		Switch Slide
+SW-TOGL			Switch Toggle
+TA-MOV			Transient Absorber Metal Oxide MOV
 TA-OTHER		Transient Absorber
 TASIL			Transient Absorber Silicon 
 TASIL-BI		Transient Absorber Silicon  Bidirectional
 TASIL-UI		Transient Absorber Silicon  Unidirectional
-TEST-PT		Test Point Testpoint
+TEST-PT			Test Point Testpoint
 TEST-LEAD		Test lead clip probe grabber
+THERMISTER		Thermister
 THY-DIAC		Thyristor DIAC
 THY-TRIAC		Thyristor TRIAC
-THY-SCR		Thyristor SCR
+THY-SCR			Thyristor SCR
 TOOL 			Tool other
+TOOL-ALIGN 		Tool Align Pin
 TOOL-CRIMP		Tool Crimp
-TOOL-CUSTOM	Tool Custom probe fixture
-TOOL-EXTRACT 	Tool Pin extraction
+TOOL-CUSTOM		Tool Custom probe fixture
+TOOL-EXTRACT 		Tool Pin extraction separation
+TOOL-EYE		Tool Eyelet setting
 TOOL-HAND		Tool Hand
+TOOL-LAMP		Tool Gooseneck fiber optic light
 TOOL-LABEL		Tool Labeler
 TOOL-MEAS		Tool Measure Caliper Ruler Tape
 TOOL-PWR		Tool Power
-TOOL-SOLDER	Tool Solder iron tips
+TOOL-SOLDER		Tool Solder iron tips
 TOOL-STRIP		Tool Wire stripper
+TOOL-TORQUE		Tool Torque wrench
+TOOL-TUNE		Tool Tuning var cap
+TOOL-TWZ		Tool Tweezer
 TOOL-VISE		Tool Vise holder third hand
-TOOL-LAMP		Tool Gooseneck fiber optic light
-TOOL-uSCOPE	Tool Microscope magnifying glass
-VAR-PTC		Varistor PTC
-VAR-NTC		Varistor NTC
+TOOL-uSCOPE		Tool Microscope magnifying glass
+VAR-PTC			Varistor PTC
+VAR-NTC			Varistor NTC
 WIRE-COAX		Wire Coax
-WIRE-COAX-NOMAG	Wire Coax non-magnetic
+WIRE-COAX-NOMAG		Wire Coax non-magnetic
 WIRE-SOLID		Wire Solid
 WIRE-STRAN		Wire Stranded
 XFORM			Transformer
 XF-ACPWR		Transformer AC Power
-XF-EFD		Transformer EFD Series
+XF-EFD			Transformer EFD Series
 XF-PULSE		Transformer Pulse
 XF-RF			Transformer RF
 
