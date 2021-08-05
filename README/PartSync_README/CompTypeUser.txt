@@ -134,8 +134,10 @@ IND			Inductors
 IND-0402		Inductors Chip 0402
 IND-0603		Inductors Chip 0603
 IND-0805		Inductors Chip 0805
+IND-1008		Inductors Chip 1008
 IND-1206		Inductors Chip 1206
 IND-1210		Inductors Chip 1210
+IND-1212		Inductors Chip 1212
 IND-DRUM		Inductors DRUM
 IND-NOMAG		Inductors non-magnetic air core
 IND-Chip		Inductors Chip Misc
