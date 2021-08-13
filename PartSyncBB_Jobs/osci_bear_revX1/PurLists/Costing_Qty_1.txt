@@ -1,0 +1,46 @@
+    Build 1  C:\Users\aflynn\data\AltiumGit\PartSyncBB_Jobs\osci_bear_revX1\PurLists\
+
+Need    Part Number  BuyAt   Cost            Description
+---------------------------------------------------------------------------
+2       BW-244-552  1      $19.44        Antenna 2.4GHz R/A SMA Taoglas GW.26.0112
+50      BW-399-799  50     $5.58         Cap ceramic 1.8pF 50V +-0.1pF COG/NPO 0603 Kemet CBR06C189B5GAC
+50      BW-096-113  50     $5.89         Cap ceramic 2.5pF 50V +-0.1pF COG/NPO 0603 Kemet CBR06C259B5GAC
+50      BW-353-790  50     $5.82         Cap ceramic 3.3pF 50V +-0.1pF COG/NPO 0603 Kemet CBR06C339B5GAC
+50      BW-554-177  100    $0.95         Cap ceramic 3.7pF 50V +-0.1pF COG/NPO 0603 Kemet CBR06C379B5GAC
+50      BW-279-321  50     $3.79         Cap ceramic 4pF 50V +-0.25pF COG/NPO 0603 Kemet CBR06C409C5GAC
+50      BW-949-233  50     $5.89         Cap ceramic 4.5pF 50V +-0.1pF COG/NPO 0603 Kemet CBR06C459B5GAC
+50      BW-385-334  50     $6.60         Cap ceramic 5.1pF 250V +-0.25pF COG/NPO 0603 Johanson 251R14S5R1CV4T
+50      BW-219-248  50     $6.09         Cap ceramic 5.3pF 50V +-0.1pF COG/NPO 0603 Kemet CBR06C539B5GAC
+50      BW-092-033  50     $6.09         Cap ceramic 6.3pF 50V +-0.1pF COG/NPO 0603 Kemet CBR06C639B5GAC
+50      BW-528-951  50     $6.04         Cap ceramic 7pF 50V +-0.1pF COG/NPO 0603 Kemet CBR06C709B5GAC
+50      BW-919-191  50     $6.09         Cap ceramic 7.5pF 50V +-0.1pF COG/NPO 0603 Kemet CBR06C759B5GAC
+50      BW-272-590  50     $6.04         Cap ceramic 8pF 50V +-0.1pF COG/NPO 0603 Kemet CBR06C809B5GAC
+50      BW-547-532  50     $9.25         Inductor 1nH +-0.3nH 600 mA 0603 50 mohms Wurth 744786010A
+50      BW-004-442  50     $9.25         Inductor 1.2nH +-0.3nH 600 mA 0603 50 mohms Wurth 744786012A
+50      BW-909-332  50     $9.25         Inductor 1.5nH +-0.3nH 600 mA 0603 100 mohms Wurth 744786015A
+50      BW-877-700  50     $9.25         Inductor 1.8nH +-0.3nH 600 mA 0603 100 mohms Wurth 744786018A
+50      BW-233-714  50     $9.25         Inductor 2.2nH +-0.3nH 600 mA 0603 100 mohms Wurth 744786022A
+50      BW-608-686  50     $7.57         Inductor 2.4nH +-0.2nH 2.4 A 0603 260 mohms Murata LQW18AN2N4C80D
+50      BW-003-895  50     $9.25         Inductor 2.7nH +-0.3nH 600 mA 0603 120 mohms Wurth 744786027A
+50      BW-559-133  50     $9.90         Inductor 3nH +-0.2nH 670 mA 0603 170 mohms Murata LQW18AN3N0C8ZD
+50      BW-658-014  50     $9.25         Inductor 3.3nH +-0.3nH 600 mA 0603 150 mohms Wurth 744786033A
+50      BW-510-888  10     $12.35        Inductor 3.6nH +-0.2nH 600 mA 0603 50 mohms Wurth 744761036A
+50      BW-677-776  50     $9.90         Inductor 3.9nH +-0.1nH 2.2 A 0603 28 mohms Murata LQW18AN3N9B8ZD
+50      BW-657-811  50     $9.90         Inductor 4.2nH +-0.2nH 2.2 A 0603 28 mohms Murata LQW18AN4N2C8ZD
+50      BW-323-066  50     $9.90         Inductor 4.7nH 2% 1.5 A 0603 54 mohms Murata LQW18AN4N7G8ZD
+50      BW-654-293  50     $9.90         Inductor 4.7nH 2% 1.5 A 0603 54 mohms Murata LQW18AN4N7G8ZD
+50      BW-823-716  50     $8.42         Inductor 5.1nH 2% 700 mA 0603 140 mohms Murata LQW18AS5N1G0ZD
+3       BW-387-345  1      $11.40        IC MMA-2A+ RF power amplifier 2.4GHz DQ849 pkg (QFN-8) Mini Circuits MNA-2A+
+3       BW-553-322  1      $9.60         IC MMA-5A+ RF power amplifier 2.4GHz DQ849 pkg (QFN-8) Mini Circuits MNA-5A+
+1       BW-788-861  1      $7,915.05     MOD VCU-118  FPGA board Xilinx VCU-118
+4       BW-018-343  1      $22.88        Con SMA-SMA adapter female jack str 50 ohm Amphenol RF 132169
+1       BW-344-488  1      $115.00       Tools torque wrench East Coast Microwave ECM-2001 5/16" torque wrench for SMA RF connectors 8/-1 inch-lbs
+100     BW-764-694  100    $0.70         Res 0 1/10W 0603 Yageo RC0603JR-070RL
+3       BW-174-083  1      $33.69        Wrench fixed 5.5mm  f/SMA fem-fem adapter McMaster 55715A25
+3       BW-056-324  1      $32.01        Wrench fixed 3/8" f/SMA end-launch bracket McMaster 56945A59
+1       BW-080-690  1      $9,405.45     VNA Fieldfox N9923A-106 (used) 6GHz Keysight N9923A-106
+1       BW-483-466  1      $3,295.00     Synthesized clock generator 2GHz SRS CG635
+
+---------------------------------------------------------------------------
+Total Cost: $21,067.68
+Unit  Cost: $21,067.68
