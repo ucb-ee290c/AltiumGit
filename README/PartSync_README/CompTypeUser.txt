@@ -225,8 +225,9 @@ TA-OTHER		Transient Absorber
 TASIL			Transient Absorber Silicon 
 TASIL-BI		Transient Absorber Silicon  Bidirectional
 TASIL-UI		Transient Absorber Silicon  Unidirectional
-TEST-PT			Test Point Testpoint
+TEST-EQUIP		Test meter VNA uscope power supply
 TEST-LEAD		Test lead clip probe grabber
+TEST-PT			Test Point Testpoint
 THERMISTER		Thermister
 THY-DIAC		Thyristor DIAC
 THY-TRIAC		Thyristor TRIAC
